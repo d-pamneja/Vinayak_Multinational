@@ -3,7 +3,7 @@
         <div class="container py-md-5 py-3 pb-0">
             <div class="row footer-p right-side">
                 <div class="col-lg-4 col-md-6 pe-lg-5">
-                    <h2 class="footerw3l-logo"><a class="navbar-brand" href="index.html">
+                    <h2 class="footerw3l-logo"><a class="navbar-brand" href="index.php">
                             <span class="w3yellow">Poultry</span> Field
                         </a></h2>
                     <p class="mt-3">Lorem ipsum dolor sit, amet consectetur elit. Earum mollitia ipsam autem
@@ -27,12 +27,12 @@
                         <div class="col-xl-5 col-6 column">
                             <h3>Links</h3>
                             <ul class="footer-gd-16">
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="services.html">Services</a></li>
+                                <li><a href="about.php">About Us</a></li>
+                                <li><a href="services.php">Services</a></li>
 
-                                <li><a href="about.html">Team</a></li>
+                                <li><a href="about.php">Team</a></li>
                                 <li><a href="#blog">Blog Posts</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                         <div class="col-6 column">
