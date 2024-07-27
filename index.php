@@ -32,155 +32,15 @@ Author URL: http://w3layouts.com
     <!-- features-section -->
     <?php include('grid2.php'); ?>
     <!--//features-section -->
-    <!--/w3-grids-->
-    <?php include('grid3.php'); ?>
-    <!--//w3-grids-->
-
     <!--/Gallery-Section-->
     <?php include('gallery.php'); ?>
     <!--//Gallery-Section-->
     <!--/testimonials-->
     <?php include('testimonials.php'); ?>
     <!--//testimonials-->
-    <!--/w3l-blog-->
-    <section class="w3l-blog">
-        <div class="blog py-5" id="Newsblog">
-            <div class="container py-lg-5 py-md-4 py-2">
-                <div class="title-content text-center mb-lg-3 mb-4">
-                    <h6 class="title-subw3hny mb-1">Our Article</h6>
-                    <h3 class="title-w3l mb-5">Our Recent News</h3>
-                </div>
-
-                <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6 item">
-                        <div class="card">
-                            <div class="card-header p-0 position-relative">
-                                <a href="#blog" class="zoom d-block">
-                                    <img class="card-img-bottom d-block" src="assets/images/g1.jpg" alt="Card image cap">
-                                </a>
-
-                            </div>
-                            <div class="card-body blog-details">
-                                <div class="author align-items-center">
-                                    <div href="#" class="blog_item_date">
-                                        <h5>14.01.2022</h5>
-                                    </div>
-                                    <ul class="blog-meta d-flex mb-2">
-                                        <li>
-                                            <a href="#author" class="post-author">
-                                                <i class="fas fa-user-alt"></i>
-                                            </a> <span class="meta-value">by</span><a href="#author"> David </a>
-                                        </li>
-                                        <li>
-                                            <a href="#author" class="post-author">
-                                                <i class="fas fa-comments"></i>
-                                            </a> <a href="#author"> 03 Comments</a>
-                                        </li>
-                                    </ul>
-
-                                </div>
-                                <a href="#blog" class="blog-desc">It is good for health to eat light Chicken Wings.</a>
-                                <p>Lorem ipsum viverra feugiat. Pellen tesque libero ut justo.</p>
-
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 item mt-md-0 mt-5">
-                        <div class="card">
-                            <div class="card-header p-0 position-relative">
-                                <a href="#blog" class="zoom d-block">
-                                    <img class="card-img-bottom d-block" src="assets/images/g2.jpg" alt="Card image cap">
-                                </a>
-
-                            </div>
-                            <div class="card-body blog-details">
-                                <div class="author align-items-center">
-                                    <div href="#" class="blog_item_date">
-                                        <h5>16.01.2022</h5>
-                                    </div>
-                                    <ul class="blog-meta d-flex mb-2">
-                                        <li>
-                                            <a href="#author" class="post-author">
-                                                <i class="fas fa-user-alt"></i>
-                                            </a> <span class="meta-value">by</span><a href="#author"> David </a>
-                                        </li>
-                                        <li>
-                                            <a href="#author" class="post-author">
-                                                <i class="fas fa-comments"></i>
-                                            </a> <a href="#author"> 05 Comments</a>
-                                        </li>
-                                    </ul>
-
-                                </div>
-                                <a href="#blog" class="blog-desc">Having fresh eggs with the unsurpassed price </a>
-                                <p>Lorem ipsum viverra feugiat. Pellen tesque libero ut justo.</p>
-
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 item mt-lg-0 mt-5">
-                        <div class="card">
-                            <div class="card-header p-0 position-relative">
-                                <a href="#blog" class="zoom d-block">
-                                    <img class="card-img-bottom d-block" src="assets/images/g3.jpg" alt="Card image cap">
-                                </a>
-
-                            </div>
-                            <div class="card-body blog-details">
-                                <div class="author align-items-center">
-                                    <div href="#" class="blog_item_date">
-                                        <h5>17.01.2022</h5>
-                                    </div>
-                                    <ul class="blog-meta d-flex mb-2">
-                                        <li>
-                                            <a href="#author" class="post-author">
-                                                <i class="fas fa-user-alt"></i>
-                                            </a> <span class="meta-value">by</span><a href="#author"> Marks</a>
-                                        </li>
-                                        <li>
-                                            <a href="#author" class="post-author">
-                                                <i class="fas fa-comments"></i>
-                                            </a> <a href="#author"> 06 Comments</a>
-                                        </li>
-                                    </ul>
-
-                                </div>
-                                <a href="#blog" class="blog-desc">It is good for health to eat light Chicken Wings.</a>
-                                <p>Lorem ipsum viverra feugiat. Pellen tesque libero ut justo.</p>
-
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--//w3l-blog-->
-    <!--/w3l-newsletter-->
-    <section class="w3l-newsletter">
-        <div class="container">
-            <div class="uphny-w3l-newsletter-inf">
-                <div class="row uphny-w3l-newsletter align-items-center">
-                    <div class="col-lg-6 w3l-newsletter-left text-left">
-                        <h3 class="titlehny">Don't miss our future updates! Get subscribed today!</h3>
-                    </div>
-                    <div class="col-lg-6 w3l-newsletter-form ps-lg-5 mt-lg-0 mt-md-5 mt-4">
-                        <form action="#" method="post" class="subscribe-wthree">
-                            <div class="flex-wrap subscribe-wthree-field">
-                                <input class="form-control" type="email" placeholder="Type Your Email Address" name="email" required="">
-                                <button class="btn btn-style btn-primary" type="submit">Subscribe</button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--//w3l-newsletter-->
+    <!--/w3-grids-->
+    <?php include('grid3.php'); ?>
+    <!--//w3-grids-->
     <!--/footer-->
     <footer class="w3l-footer">
         <div class="w3l-footer-16 py-5">
