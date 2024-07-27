@@ -9,7 +9,7 @@
                     ligula. Semper at tempufddfel.Lorem ipsum dolor sit, amet consectetur elit. Earum mollitia
                     cum ex ipsam autem!earum sequi amet.</p>
                 <div class="w3banner-content-btns">
-                    <a href="about.html" class="btn btn-style btn-primary mt-lg-5 mt-4 me-2">Read More </a>
+                    <a href="about.php" class="btn btn-style btn-primary mt-lg-5 mt-4 me-2">Read More </a>
 
                 </div>
             </div>
