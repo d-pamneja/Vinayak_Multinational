@@ -6,7 +6,7 @@
                         <div class="banner-info header-hero-19">
                             <p class="w3hny-tag">Loyal to quality</p>
                             <h3 class="title-hero-19">The chicken always comes chief.</h3>
-                            <a href="about.html" class="btn btn-style btn-primary mt-4">Read More </a>
+                            <a href="about.php" class="btn btn-style btn-primary mt-4">Read More </a>
                         </div>
                         <div class="banner-left position-relative mt-5">
                             <a href="#small-dialog" class="popup-with-zoom-anim play-view text-center position-absolute">
