@@ -1,9 +1,7 @@
 <header id="site-header" class="fixed-top">
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light stroke py-lg-0">
-            <h1><a class="navbar-brand" href="index.php">
-                    <span class="w3yellow">Poultry</span> Field
-                </a></h1>
+            <h1><?php include('company_name.php'); ?></h1>
             <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon fa icon-expand fa-bars"></span>
                 <span class="navbar-toggler-icon fa icon-close fa-times"></span>

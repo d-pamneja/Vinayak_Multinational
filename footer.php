@@ -3,9 +3,7 @@
         <div class="container py-md-5 py-3 pb-0">
             <div class="row footer-p right-side">
                 <div class="col-lg-4 col-md-6 pe-lg-5">
-                    <h2 class="footerw3l-logo"><a class="navbar-brand" href="index.php">
-                            <span class="w3yellow">Poultry</span> Field
-                        </a></h2>
+                    <h2 class="footerw3l-logo"><?php include('company_name.php'); ?></h2>   
                     <p class="mt-3">Lorem ipsum dolor sit, amet consectetur elit. Earum mollitia ipsam autem
                         ipsam.dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam.</p>
                     <div class="columns-2 mt-lg-5 mt-4">

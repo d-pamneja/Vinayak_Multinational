@@ -10,7 +10,7 @@
                 <p class="my-3"> Lorem ipsum viverra feugiat. Pellen tesque libero ut justo, ultrices in ligula. Semper at tempufddfel.Lorem ipsum dolor sit, amet consectetur ante ipsum elit. faucibus orci luctus et ultrices posuere cubilia Curae;
                     Nulla mollis dapibus nunc. </p>
 
-                <a href="about.html" class="btn btn-style btn-primary mt-4">Read More</a>
+                <a href="about.php" class="btn btn-style btn-primary mt-4">Read More</a>
             </div>
 
         </div>
