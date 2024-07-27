@@ -9,7 +9,7 @@ Author URL: http://w3layouts.com
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Poultry Field - Agriculture & Farming Category Bootstrap Responsive Template | Home :: W3layouts </title>
+    <title> <?php include('title_bar.php');?> </title>
     <!--/google-fonts -->
     <link href="//fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
     <!--//google-fonts -->
