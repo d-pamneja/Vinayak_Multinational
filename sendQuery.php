@@ -23,7 +23,8 @@ if((isset($_POST["name"]) && !empty($_POST["name"])) && (!empty($_POST['email'])
 	  $headers .= 'From: '.$email;
 	  mail($to_email,$subject,$message,$headers);
 
-	  echo "s";
+	  //echo "s";
+	  $s = "s";
 
 	 // echo $message."- from-".$from_email."-to-".$to_email;
 	
@@ -31,7 +32,7 @@ if((isset($_POST["name"]) && !empty($_POST["name"])) && (!empty($_POST['email'])
 
 else{
 	
-	echo "n";
+	$s="n";
 }
 	
 ?>

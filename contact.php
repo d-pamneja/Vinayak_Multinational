@@ -41,6 +41,7 @@
     </div>
     <!--//inner-page-->
     <!-- contacts-5-grid -->
+     <?php include('sendQuery.php')?>
     <?php include('contactForm.php')?>
     <!-- /map-->
     <div class="contacts-sub-5">
