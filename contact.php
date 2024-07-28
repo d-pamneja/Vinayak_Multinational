@@ -41,13 +41,16 @@
     </div>
     <!--//inner-page-->
     <!-- contacts-5-grid -->
-     <?php include('sendQuery.php')?>
+    <?php include('sendQuery.php')?>
     <?php include('contactForm.php')?>
     <!-- /map-->
     <div class="contacts-sub-5">
         <div class="contacts-mapw3 position-relative">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387193.305935303!2d-74.25986548248684!3d40.69714941932609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sin!4v1563262564932!5m2!1sen!2sin" style="border:0" allowfullscreen></iframe>
+            <iframe
+                src="https://www.google.com/maps/d/u/0/embed?mid=1WMe11PzBGd5wSNZubHKf-qmcSGjb4yU&ehbc=2E312F&noprof=1"
+                width="640" height="480"></iframe>
         </div>
+        <br>
     </div>
     <!-- //map-->
     <!--/footer-->
@@ -60,25 +63,24 @@
         <span class="fas fa-arrow-up" aria-hidden="true"></span>
     </button>
     <script>
-        // When the user scrolls down 20px from the top of the document, show the button
-        window.onscroll = function() {
-            scrollFunction()
-        };
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {
+        scrollFunction()
+    };
 
-        function scrollFunction() {
-            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-                document.getElementById("movetop").style.display = "block";
-            } else {
-                document.getElementById("movetop").style.display = "none";
-            }
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            document.getElementById("movetop").style.display = "block";
+        } else {
+            document.getElementById("movetop").style.display = "none";
         }
+    }
 
-        // When the user clicks on the button, scroll to the top of the document
-        function topFunction() {
-            document.body.scrollTop = 0;
-            document.documentElement.scrollTop = 0;
-        }
-
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
     </script>
     <!-- //move top -->
     <!--//footer-9 -->
@@ -88,69 +90,69 @@
 
     <!-- MENU-JS -->
     <script>
-        $(window).on("scroll", function() {
-            var scroll = $(window).scrollTop();
+    $(window).on("scroll", function() {
+        var scroll = $(window).scrollTop();
 
-            if (scroll >= 80) {
-                $("#site-header").addClass("nav-fixed");
-            } else {
-                $("#site-header").removeClass("nav-fixed");
-            }
-        });
+        if (scroll >= 80) {
+            $("#site-header").addClass("nav-fixed");
+        } else {
+            $("#site-header").removeClass("nav-fixed");
+        }
+    });
 
-        //Main navigation Active Class Add Remove
-        $(".navbar-toggler").on("click", function() {
-            $("header").toggleClass("active");
-        });
-        $(document).on("ready", function() {
+    //Main navigation Active Class Add Remove
+    $(".navbar-toggler").on("click", function() {
+        $("header").toggleClass("active");
+    });
+    $(document).on("ready", function() {
+        if ($(window).width() > 991) {
+            $("header").removeClass("active");
+        }
+        $(window).on("resize", function() {
             if ($(window).width() > 991) {
                 $("header").removeClass("active");
             }
-            $(window).on("resize", function() {
-                if ($(window).width() > 991) {
-                    $("header").removeClass("active");
-                }
-            });
         });
-
+    });
     </script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <script src="assets/js/active.js"></script>
-<script>
+    <script>
     $(document).ready(function() {
-    $('#contactForm').on('submit', function(event) {
-        event.preventDefault(); // Prevent the default form submission
+        $('#contactForm').on('submit', function(event) {
+            event.preventDefault(); // Prevent the default form submission
 
-        var formData = $(this).serialize(); // Serialize form data
+            var formData = $(this).serialize(); // Serialize form data
 
-        $.ajax({
-            type: 'POST',
-            url: 'sendQuery.php', // Your PHP script to handle the request
-            data: formData,
-            success: function(response) {
-                // Display the server response in the #response div
-                $('#response').html('<div class="success">' + response + '</div>').show();
-                
-            },
-            error: function(xhr, status, error) {
-                // Display an error message if something went wrong
-                $('#response').html('<div class="error">An error occurred: ' + error + '</div>').show();
-            }
+            $.ajax({
+                type: 'POST',
+                url: 'sendQuery.php', // Your PHP script to handle the request
+                data: formData,
+                success: function(response) {
+                    // Display the server response in the #response div
+                    $('#response').html('<div class="success">' + response + '</div>')
+                        .show();
+
+                },
+                error: function(xhr, status, error) {
+                    // Display an error message if something went wrong
+                    $('#response').html('<div class="error">An error occurred: ' + error +
+                        '</div>').show();
+                }
+            });
         });
     });
-});
-</script>
+    </script>
     <!-- //MENU-JS -->
 
     <!-- disable body scroll which navbar is in active -->
     <script>
-        $(function() {
-            $('.navbar-toggler').click(function() {
-                $('body').toggleClass('noscroll');
-            })
-        });
-
+    $(function() {
+        $('.navbar-toggler').click(function() {
+            $('body').toggleClass('noscroll');
+        })
+    });
     </script>
     <!-- //disable body scroll which navbar is in active -->
     <!-- //bootstrap -->
