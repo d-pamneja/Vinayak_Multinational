@@ -26,8 +26,8 @@
 
                 <div class="col-lg-6 form-inner-cont mt-lg-0 mt-4">
                     <form action="#" method="post" role="form" class="signin-form">
-                    <div id="sendmessage" class="text-success"><b>Your message has been sent. Thank you!</b></div>
-                    <div id="errormessage" class="text-warning"></div>
+                    <div id="response" class="response text-success"><b></b></div>
+                    <div id="response" class="response text-warning"></div>
                         <div class="form-grids">
                             <div class="form-input">
                                 <input type="text" name="name" id="name" placeholder="Enter your name *"
@@ -49,7 +49,7 @@
                                 required=""></textarea>
                         </div>
                         <div class="w3-submit text-right">
-                            <button id="submitme" type="submit" class="btn btn-style btn-primary">Send Message <i
+                            <button type="submit" class="btn btn-style btn-primary">Send Message <i
                                     class="fas fa-paper-plane ms-2"></i></button>
                         </div>
                     </form>

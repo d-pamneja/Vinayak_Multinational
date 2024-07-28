@@ -1,38 +1,23 @@
-<?php  
-if((isset($_POST["name"]) && !empty($_POST["name"])) && (!empty($_POST['email']) && isset($_POST["email"])))
-{
-	  $name=$_POST["name"];
-	  $email=$_POST["email"];
-	  $msg=$_POST["message"];
-	  //$mobile=$_POST["mobile"];
-	  $subject = $_POST['subject'];
-	 // $gender=$_POST["gender"];
-	  
-	  $message = $name.'<br>';
-	  //$message .= $gender.'<br/>';
-	  $message .= $email.'<br>';
-	  $message .= $msg.'<br/>';
-	  
-	  $to_email = 'rhythm.8@live.com';
+<?php
+        if ($_SERVER["REQUEST_METHOD"] == "POST") {
+            $name = htmlspecialchars($_POST['name']);
+            $email = htmlspecialchars($_POST['email']);
+            $subject = htmlspecialchars($_POST['subject']);
+            $message = htmlspecialchars($_POST['message']);
+            $to = "dpamneja@gmail.com"; // Replace with your email address
+            $headers = "From: $email";
 
-	  $from_email=$email;
-
-	  
-	  $headers = "MIME-Version: 1.0" . "\r\n";
-      $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-	  $headers .= 'From: '.$email;
-	  mail($to_email,$subject,$message,$headers);
-
-	  //echo "s";
-	  $s = "s";
-
-	 // echo $message."- from-".$from_email."-to-".$to_email;
-	
-}
-
-else{
-	
-	$s="n";
-}
-	
-?>
+            if (empty($name) || empty($email) || empty($subject) || empty($message)) {
+                echo "<div class='error'>All fields are required.</div>";
+            } elseif (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+                echo "<div class='error'>Invalid email format.</div>";
+            } else {
+                $mail_sent = mail($to, $subject, $message, $headers);
+                if ($mail_sent) {
+                    echo "<div class='success'>Your message has been sent successfully.</div>";
+                } else {
+                    echo "<div class='error'>Failed to send your message. Please try again later.</div>";
+                }
+            }
+        }
+        ?>

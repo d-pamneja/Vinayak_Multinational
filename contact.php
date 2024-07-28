@@ -114,59 +114,33 @@
         });
 
     </script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <script src="assets/js/active.js"></script>
+<script>
+    $(document).ready(function() {
+    $('#contactForm').on('submit', function(event) {
+        event.preventDefault(); // Prevent the default form submission
 
-    <script type="text/javascript">
-  $(document).ready(function () {
-   // alert("OK");
-        $("#sendmessage").css("display", "none");
-          $(document.body).on('click', '#submitme', function(){
-                    var name = $('#name').val();
-                    var email = $('#email').val();
-                    var subject = $('#subject').val();
-                    var message = $('#message').val();
-                    
-            $.ajax({
-                type : 'POST',
-                url : 'sendQuery.php',
-                data : {name:name,email:email,subject:subject,message:message},
-                async:false,
-                success:function(response){
-                //alert(response);
-                      if(response=='s')
-                      {
+        var formData = $(this).serialize(); // Serialize form data
 
-                           $("#sendmessage").css("display", "block");
-                           
-                                    $('#name').val('');
-                                    $('#email').val('');
-                                    $('#message').val('');
-                           
-                           
-                      }
-                      else if(response=='n'){
-                           
-                           $("#errormessage").html("Please contact to Admin");
-                           $("#errormessage").css("display", "block");
-                      }else{
-                           $("#errormessage").html("Please contact to Admin");
-                           $("#errormessage").css("display", "block");
-                          
-                      }
-                      
-                  
-                      
-                      
-                } 
-            });
-                    
-                    
-          });
-        
-   });
-  </script>
-
+        $.ajax({
+            type: 'POST',
+            url: 'sendQuery.php', // Your PHP script to handle the request
+            data: formData,
+            success: function(response) {
+                // Display the server response in the #response div
+                $('#response').html('<div class="success">' + response + '</div>').show();
+                
+            },
+            error: function(xhr, status, error) {
+                // Display an error message if something went wrong
+                $('#response').html('<div class="error">An error occurred: ' + error + '</div>').show();
+            }
+        });
+    });
+});
+</script>
     <!-- //MENU-JS -->
 
     <!-- disable body scroll which navbar is in active -->
