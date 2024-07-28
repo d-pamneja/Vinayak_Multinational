@@ -178,7 +178,7 @@
                 <div class="col-lg-4 col-6 team-wrap mt-lg-5 mt-4">
                     <div class="team-member text-center">
                         <div class="team-img">
-                            <img src="assets/images/team1.jpg" alt="" class="radius-image">
+                            <img src="assets/images/maurayan_client.jpeg" alt="" class="radius-image">
                             <div class="overlay-team">
                                 <div class="team-details text-center">
                                     <div class="socials mt-20">
