@@ -18629,7 +18629,7 @@ p.w3ban-para {
 /*--/inner-banner--*/
 
 .inner-banner {
-    background: url(../images/banner2.jpg) no-repeat center;
+    background: url(../images/about_us_banner.jpeg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -19749,9 +19749,6 @@ ul.blog-meta i {
         height: 75px;
     }
 }
-
-
-/*--//Blog-posts--*/
 
 
 /*--//blog--*/

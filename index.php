@@ -32,15 +32,15 @@ Author URL: http://w3layouts.com
     <!-- features-section -->
     <?php include('grid2.php'); ?>
     <!--//features-section -->
-    <!--/Gallery-Section-->
-    <?php include('gallery.php'); ?>
-    <!--//Gallery-Section-->
-    <!--/testimonials-->
-    <?php include('testimonials.php'); ?>
-    <!--//testimonials-->
     <!--/w3-grids-->
     <?php include('grid3.php'); ?>
     <!--//w3-grids-->
+    <!--/testimonials-->
+    <?php include('testimonials.php'); ?>
+    <!--//testimonials-->
+     <!--/Gallery-Section-->
+     <?php include('gallery.php'); ?>
+    <!--//Gallery-Section-->
 
     <!--/footer-->
     <?php include('footer.php'); ?>
