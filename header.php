@@ -2,7 +2,9 @@
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light stroke py-lg-0">
             <h1><?php include('company_name.php'); ?></h1>
-            <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false"
+                aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon fa icon-expand fa-bars"></span>
                 <span class="navbar-toggler-icon fa icon-close fa-times"></span>
             </button>
@@ -15,9 +17,14 @@
                         <a class="nav-link" href="about.php">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="services.php">Services</a>
+                        <a class="nav-link" href="pharma.php">Pharma</a>
                     </li>
-
+                    <li class="nav-item">
+                        <a class="nav-link" href="agro.php">Agro</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="consulting.php">Consulting</a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="contact.php">Contact</a>
                     </li>
