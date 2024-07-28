@@ -7,46 +7,34 @@
         </div>
         <div class="row gal-page-grids text-center">
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
-                <a href="#gal">
-                    <div class="w3layouts_team_grid">
-                        <img src="assets/images/logo1.png" alt=" " class="img-fluid radius-image" />
-                    </div>
-                </a>
+                <div class="w3layouts_team_grid">
+                    <img src="assets/images/logo0.png" alt=" " class="img-fluid radius-image" />
+                </div>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
-                <a href="#gal">
-                    <div class="w3layouts_team_grid">
-                        <img src="assets/images/logo2.png" alt=" " class="img-fluid radius-image" />
-                    </div>
-                </a>
+                <div class="w3layouts_team_grid">
+                    <img src="assets/images/logo2.png" alt=" " class="img-fluid radius-image" />
+                </div>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
-                <a href="#gal">
-                    <div class="w3layouts_team_grid">
-                        <img src="assets/images/logo3.png" alt=" " class="img-fluid radius-image" />
-                    </div>
-                </a>
+                <div class="w3layouts_team_grid">
+                    <img src="assets/images/logo3.png" alt=" " class="img-fluid radius-image" />
+                </div>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
-                <a href="#gal">
-                    <div class="w3layouts_team_grid">
-                        <img src="assets/images/logo4.png" alt=" " class="img-fluid radius-image" />
-                    </div>
-                </a>
+                <div class="w3layouts_team_grid">
+                    <img src="assets/images/logo4.png" alt=" " class="img-fluid radius-image" />
+                </div>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
-                <a href="#gal">
-                    <div class="w3layouts_team_grid">
-                        <img src="assets/images/logo5.png" alt=" " class="img-fluid radius-image" />
-                    </div>
-                </a>
+                <div class="w3layouts_team_grid">
+                    <img src="assets/images/logo5.png" alt=" " class="img-fluid radius-image" />
+                </div>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
-                <a href="#gal">
-                    <div class="w3layouts_team_grid">
-                        <img src="assets/images/logo6.png" alt=" " class="img-fluid radius-image" />
-                    </div>
-                </a>
+                <div class="w3layouts_team_grid">
+                    <img src="assets/images/logo6.png" alt=" " class="img-fluid radius-image" />
+                </div>
             </div>
 
         </div>
