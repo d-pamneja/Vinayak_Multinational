@@ -5,6 +5,7 @@
                 <div class="col-lg-4 col-md-6 pe-lg-5">
                     <h2 class="footerw3l-logo"><?php include('company_name.php'); ?></h2>   
                     <p class="mt-3">Your global partner for pharmaceutical and agrochemical solutions. We offer expert guidance, innovative products, and tailored strategies to drive your success in the life sciences industry.</p>
+
                     <div class="columns-2 mt-lg-5 mt-4">
                         <ul class="social">
                             <li><a href="#facebook"><i class="fab fa-facebook-f"></i></a>
@@ -25,10 +26,7 @@
                             <h3>Links</h3>
                             <ul class="footer-gd-16">
                                 <li><a href="about.php">About Us</a></li>
-                                <li><a href="services.php">Services</a></li>
-
                                 <li><a href="about.php">Team</a></li>
-                                <li><a href="#blog">Blog Posts</a></li>
                                 <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
@@ -36,15 +34,12 @@
                             <h3>Services</h3>
                             <ul class="footer-gd-16">
 
-                                <li><a href="#care">
-                                        Brown Eggs</a></li>
-                                <li><a href="#meal">Chicken Broiler</a></li>
-                                <li><a href="#clean">
-                                        Free Shipping</a></li>
-                                <li><a href="#medicine">
-                                        Quality Matters</a></li>
-                                <li><a href="#setting">
-                                        Poultry Cages</a></li>
+                                <li><a href="agro.php">
+                                        Agro Chemicals</a></li>
+                                <li><a href="pharma.php">Pharmaceutical</a></li>
+                                <li><a href="consulting.php">
+                                        Consulting</a></li>
+
                             </ul>
                         </div>
                     </div>
@@ -88,7 +83,7 @@
                 </div>
             </div>
             <div class="below-section text-center pt-lg-4 mt-5">
-                <p class="copy-text">&copy; 2024 Poultry Field. All rights reserved.</p>
+                <p class="copy-text">&copy; 2024 Vinayak Multinational. All rights reserved.</p>
                 <ul class="footer-gd-16 d-flex justify-content-center">
                     <li><a href="#terms">Terms
                         </a></li>
