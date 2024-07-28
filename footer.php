@@ -83,7 +83,7 @@
                 </div>
             </div>
             <div class="below-section text-center pt-lg-4 mt-5">
-                <p class="copy-text">&copy; 2024 Poultry Field. All rights reserved.</p>
+                <p class="copy-text">&copy; 2024 Vinayak Multinational. All rights reserved.</p>
                 <ul class="footer-gd-16 d-flex justify-content-center">
                     <li><a href="#terms">Terms
                         </a></li>
