@@ -25,13 +25,13 @@
                 <div class="w3breadcrumb-gids">
                     <div class="w3breadcrumb-left text-left">
                         <h2 class="inner-w3-title mt-lg-5 mt-4">
-                            Services </h2>
+                            Pharmaceutical </h2>
 
                     </div>
                     <div class="w3breadcrumb-right">
                         <ul class="breadcrumbs-custom-path">
                             <li><a href="index.php">Home</a></li>
-                            <li class="active"><span class="fas fa-arrow-right mx-2"></span> Services </li>
+                            <li class="active"><span class="fas fa-arrow-right mx-2"></span> Pharmaceutical </li>
                         </ul>
                     </div>
                 </div>
@@ -54,7 +54,9 @@
                         <h6 class="title-subw3hny">What We Do</h6>
                         <h3 class="title-w3l">We give you complete control
                             of your Poultry Fields.</h3>
-                        <p class="mt-4">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo, ultrices in ligula. Semper at tempufddfel.Lorem ipsum dolor sit, amet consectetur elit. Earum mollitia cum ex ipsam autem!earum sequi amet.</p>
+                        <p class="mt-4">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo, ultrices in ligula.
+                            Semper at tempufddfel.Lorem ipsum dolor sit, amet consectetur elit. Earum mollitia cum ex
+                            ipsam autem!earum sequi amet.</p>
                         <ul class="w3l-right-book w3l-right-book-grid mt-md-5 mt-4">
                             <li><span class="fas fa-check"></span> Fresh Chiken</li>
                             <li><span class="fas fa-check"></span> Raw Chiken Broiler</li>
@@ -161,7 +163,8 @@
             <div class="witemshny-grids row">
                 <div class="col-md-4 col-6 product-incfhny mt-4">
                     <div class="weitemshny-grid oposition-relative">
-                        <a href="#img" class="d-block zoom"><img src="assets/images/g1.jpg" alt="" class="img-fluid news-image"></a>
+                        <a href="#img" class="d-block zoom"><img src="assets/images/g1.jpg" alt=""
+                                class="img-fluid news-image"></a>
                         <div class="witemshny-inf">
                         </div>
                     </div>
@@ -171,7 +174,8 @@
                 </div>
                 <div class="col-md-4 col-6 product-incfhny mt-4">
                     <div class="weitemshny-grid oposition-relative">
-                        <a href="#img" class="d-block zoom"><img src="assets/images/g6.jpg" alt="" class="img-fluid news-image"></a>
+                        <a href="#img" class="d-block zoom"><img src="assets/images/g6.jpg" alt=""
+                                class="img-fluid news-image"></a>
                         <div class="witemshny-inf">
                         </div>
                     </div>
@@ -181,7 +185,8 @@
                 </div>
                 <div class="col-md-4 col-6 product-incfhny mt-4">
                     <div class="weitemshny-grid oposition-relative">
-                        <a href="#img" class="d-block zoom"><img src="assets/images/g2.jpg" alt="" class="img-fluid news-image"></a>
+                        <a href="#img" class="d-block zoom"><img src="assets/images/g2.jpg" alt=""
+                                class="img-fluid news-image"></a>
                         <div class="witemshny-inf">
                         </div>
                     </div>
@@ -205,25 +210,24 @@
         <span class="fas fa-arrow-up" aria-hidden="true"></span>
     </button>
     <script>
-        // When the user scrolls down 20px from the top of the document, show the button
-        window.onscroll = function() {
-            scrollFunction()
-        };
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {
+        scrollFunction()
+    };
 
-        function scrollFunction() {
-            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-                document.getElementById("movetop").style.display = "block";
-            } else {
-                document.getElementById("movetop").style.display = "none";
-            }
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            document.getElementById("movetop").style.display = "block";
+        } else {
+            document.getElementById("movetop").style.display = "none";
         }
+    }
 
-        // When the user clicks on the button, scroll to the top of the document
-        function topFunction() {
-            document.body.scrollTop = 0;
-            document.documentElement.scrollTop = 0;
-        }
-
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
     </script>
     <!-- //move top -->
     <!--//footer-9 -->
@@ -233,31 +237,30 @@
 
     <!-- MENU-JS -->
     <script>
-        $(window).on("scroll", function() {
-            var scroll = $(window).scrollTop();
+    $(window).on("scroll", function() {
+        var scroll = $(window).scrollTop();
 
-            if (scroll >= 80) {
-                $("#site-header").addClass("nav-fixed");
-            } else {
-                $("#site-header").removeClass("nav-fixed");
-            }
-        });
+        if (scroll >= 80) {
+            $("#site-header").addClass("nav-fixed");
+        } else {
+            $("#site-header").removeClass("nav-fixed");
+        }
+    });
 
-        //Main navigation Active Class Add Remove
-        $(".navbar-toggler").on("click", function() {
-            $("header").toggleClass("active");
-        });
-        $(document).on("ready", function() {
+    //Main navigation Active Class Add Remove
+    $(".navbar-toggler").on("click", function() {
+        $("header").toggleClass("active");
+    });
+    $(document).on("ready", function() {
+        if ($(window).width() > 991) {
+            $("header").removeClass("active");
+        }
+        $(window).on("resize", function() {
             if ($(window).width() > 991) {
                 $("header").removeClass("active");
             }
-            $(window).on("resize", function() {
-                if ($(window).width() > 991) {
-                    $("header").removeClass("active");
-                }
-            });
         });
-
+    });
     </script>
     <!-- Add active dynamically-->
     <script src="assets/js/active.js"></script>
@@ -266,16 +269,16 @@
 
     <!-- disable body scroll which navbar is in active -->
     <script>
-        $(function() {
-            $('.navbar-toggler').click(function() {
-                $('body').toggleClass('noscroll');
-            })
-        });
-
+    $(function() {
+        $('.navbar-toggler').click(function() {
+            $('body').toggleClass('noscroll');
+        })
+    });
     </script>
     <!-- //disable body scroll which navbar is in active -->
     <!-- //bootstrap -->
     <script src="assets/js/bootstrap.min.js"></script>
 
 </body>
+
 </html>
