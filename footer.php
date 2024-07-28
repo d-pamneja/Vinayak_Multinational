@@ -3,7 +3,7 @@
         <div class="container py-md-5 py-3 pb-0">
             <div class="row footer-p right-side">
                 <div class="col-lg-4 col-md-6 pe-lg-5">
-                    <h2 class="footerw3l-logo"><?php include('company_name.php'); ?></h2>   
+                    <h2 class="footerw3l-logo"><?php include('company_name.php'); ?></h2>
                     <p class="mt-3">Lorem ipsum dolor sit, amet consectetur elit. Earum mollitia ipsam autem
                         ipsam.dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam.</p>
                     <div class="columns-2 mt-lg-5 mt-4">
@@ -26,10 +26,7 @@
                             <h3>Links</h3>
                             <ul class="footer-gd-16">
                                 <li><a href="about.php">About Us</a></li>
-                                <li><a href="services.php">Services</a></li>
-
                                 <li><a href="about.php">Team</a></li>
-                                <li><a href="#blog">Blog Posts</a></li>
                                 <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
@@ -37,15 +34,12 @@
                             <h3>Services</h3>
                             <ul class="footer-gd-16">
 
-                                <li><a href="#care">
-                                        Brown Eggs</a></li>
-                                <li><a href="#meal">Chicken Broiler</a></li>
-                                <li><a href="#clean">
-                                        Free Shipping</a></li>
-                                <li><a href="#medicine">
-                                        Quality Matters</a></li>
-                                <li><a href="#setting">
-                                        Poultry Cages</a></li>
+                                <li><a href="agro.php">
+                                        Agro Chemicals</a></li>
+                                <li><a href="pharma.php">Pharmaceutical</a></li>
+                                <li><a href="consulting.php">
+                                        Consulting</a></li>
+
                             </ul>
                         </div>
                     </div>
