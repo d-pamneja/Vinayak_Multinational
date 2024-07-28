@@ -16770,7 +16770,7 @@ fieldset:disabled .btn {
 }
 
 [data-theme="dark"] {
-    --primary-color: #E32C07;
+    --primary-color: #06BB58;
     --font-color: #c2c2c2;
     --bg-color: #0b0d0e;
     --heading-color: #eee;
@@ -17696,7 +17696,7 @@ form.search-box {
 }
 
 .w3l-main-slider .banner-view {
-    background: url(../images/banner1.jpg) no-repeat center;
+    background: url(../images/home_banner.jpeg) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
@@ -18854,7 +18854,7 @@ p.abinfo-para {
 /*--//progress-info--*/
 
 .w3l-join-main {
-    background: url(../images/banner1.jpg) no-repeat center;
+    background: url(../images/home_banner.jpeg) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
@@ -18865,7 +18865,7 @@ p.abinfo-para {
 }
 
 .landingpage-w3l {
-    background: url(../images/banner1.jpg) no-repeat center;
+    background: url(../images/home_banner.jpeg) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
