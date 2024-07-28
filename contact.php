@@ -116,6 +116,56 @@
 
     <script src="assets/js/active.js"></script>
 
+    <script type="text/javascript">
+  $(document).ready(function () {
+   // alert("OK");
+        $("#sendmessage").css("display", "none");
+          $(document.body).on('click', '#submitme', function(){
+                    var name = $('#name').val();
+                    var email = $('#email').val();
+                    var subject = $('#subject').val();
+                    var message = $('#message').val();
+                    
+            $.ajax({
+                type : 'POST',
+                url : 'sendQuery.php',
+                data : {name:name,email:email,subject:subject,message:message},
+                async:false,
+                success:function(response){
+                //alert(response);
+                      if(response=='s')
+                      {
+
+                           $("#sendmessage").css("display", "block");
+                           
+                                    $('#name').val('');
+                                    $('#email').val('');
+                                    $('#message').val('');
+                           
+                           
+                      }
+                      else if(response=='n'){
+                           
+                           $("#errormessage").html("Please contact to Admin");
+                           $("#errormessage").css("display", "block");
+                      }else{
+                           $("#errormessage").html("Please contact to Admin");
+                           $("#errormessage").css("display", "block");
+                          
+                      }
+                      
+                  
+                      
+                      
+                } 
+            });
+                    
+                    
+          });
+        
+   });
+  </script>
+
     <!-- //MENU-JS -->
 
     <!-- disable body scroll which navbar is in active -->

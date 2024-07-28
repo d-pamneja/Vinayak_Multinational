@@ -25,31 +25,31 @@
                 </div>
 
                 <div class="col-lg-6 form-inner-cont mt-lg-0 mt-4">
-                    <form action="https://sendmail.w3layouts.com/submitForm" method="post" class="signin-form">
+                    <form action="#" method="post" role="form" class="signin-form">
+                    <div id="sendmessage" class="text-success"><b>Your message has been sent. Thank you!</b></div>
+                    <div id="errormessage" class="text-warning"></div>
                         <div class="form-grids">
                             <div class="form-input">
-                                <input type="text" name="w3lName" id="w3lName" placeholder="Enter your name *"
+                                <input type="text" name="name" id="name" placeholder="Enter your name *"
                                     required="" />
                             </div>
+                            
                             <div class="form-input">
-                                <input type="text" name="w3lSubject" id="w3lSubject" placeholder="Enter subject "
+                                <input type="email" name="email" id="email" placeholder="Enter your email *"
                                     required />
                             </div>
                             <div class="form-input">
-                                <input type="email" name="w3lSender" id="w3lSender" placeholder="Enter your email *"
+                                <input type="text" name="subject" id="subject" placeholder="Enter subject "
                                     required />
                             </div>
-                            <div class="form-input">
-                                <input type="text" name="w3lPhone" id="w3lPhone" placeholder="Enter your Phone Number *"
-                                    required />
-                            </div>
+                            
                         </div>
                         <div class="form-input">
-                            <textarea name="w3lMessage" id="w3lMessage" placeholder="Type your query here"
+                            <textarea name="message" id="message" placeholder="Type your query here"
                                 required=""></textarea>
                         </div>
                         <div class="w3-submit text-right">
-                            <button class="btn btn-style btn-primary">Send Message <i
+                            <button id="submitme" type="submit" class="btn btn-style btn-primary">Send Message <i
                                     class="fas fa-paper-plane ms-2"></i></button>
                         </div>
                     </form>
