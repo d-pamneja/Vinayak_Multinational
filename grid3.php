@@ -1,41 +1,31 @@
-<section class="w3l-passion-mid-sec py-5">
-    <div class="container py-md-5 py-3">
-        <div class="row w3l-passion-mid-grids">
-
-            <div class="col-lg-6 passion-grid-item-info pe-lg-5 mb-lg-0 mb-5">
-                <h6 class="title-subw3hny mb-1">Our invention</h6>
-                <h3 class="title-w3l mb-4">Our invention is always the best </h3>
-                <p class="mt-3 pe-lg-5">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo, ultrices in
-                    ligula. Semper at tempufddfel.Lorem ipsum dolor sit, amet consectetur elit. Earum mollitia
-                    cum ex ipsam autem!earum sequi amet.</p>
-                <div class="w3banner-content-btns">
-                    <a href="about.php" class="btn btn-style btn-primary mt-lg-5 mt-4 me-2">Read More </a>
-
+<section class="w3l-witemshny-main py-5">
+    <div class="container py-md-4">
+        <!--/row-1-->
+        <div class="witemshny-grids row">
+            <div class="col-md-6 col-6 product-incfhny mt-6">
+                <div class="weitemshny-grid oposition-relative">
+                    <a href="#img" class="d-block zoom"><img src="assets/images/g1.jpg" alt=""
+                            class="img-fluid news-image"></a>
+                    <div class="witemshny-inf">
+                    </div>
                 </div>
+                <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img">We are one of leading company</a>
+                </h4>
+                <p class="mt-md-2">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam.</p>
             </div>
-            <div class="col-lg-6 passion-grid-item-info ps-lg-4">
-                <div class="w3lgrids-1 box-wrap">
-                    <div class="icon">
-                        <i class="fab fa-buromobelexperte"></i>
-                    </div>
-                    <div class="icon-text">
-                        <h4><a href="#service" class="title-head">
-                                Breeder Management</a></h4>
-                        <p class="text-para mt-2">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo, ultrices
-                            in ligula tempufddfel.</p>
+            <div class="col-md-6 col-6 product-incfhny mt-6">
+                <div class="weitemshny-grid oposition-relative">
+                    <a href="#img" class="d-block zoom"><img src="assets/images/g6.jpg" alt=""
+                            class="img-fluid news-image"></a>
+                    <div class="witemshny-inf">
                     </div>
                 </div>
-                <div class="w3lgrids-1 box-wrap mt-4">
-                    <div class="icon">
-                        <i class="fas fa-american-sign-language-interpreting"></i>
-                    </div>
-                    <div class="icon-text">
-                        <h4><a href="#service" class="title-head">Residue Teatment</a></h4>
-                        <p class="text-para mt-2">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo, ultrices
-                            in ligula tempufddfel.</p>
-                    </div>
-                </div>
+                <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img"> The primary goal of all business</a>
+                </h4>
+                <p class="mt-md-2">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam.</p>
             </div>
         </div>
+        <!--//row-1-->
+
     </div>
 </section>
