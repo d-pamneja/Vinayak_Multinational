@@ -4,25 +4,31 @@
         <div class="witemshny-grids row">
             <div class="col-md-6 col-6 product-incfhny mt-6">
                 <div class="weitemshny-grid oposition-relative">
-                    <a href="#img" class="d-block zoom"><img src="assets/images/g1.jpg" alt=""
+                    <a href="#img" class="d-block zoom"><img src="assets/images/puneet_client.jpeg" alt=""
                             class="img-fluid news-image"></a>
                     <div class="witemshny-inf">
                     </div>
                 </div>
-                <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img">We are one of leading company</a>
-                </h4>
-                <p class="mt-md-2">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam.</p>
+                <h3 class="gdnhy-1 mt-lg-4 mt-3">Puneet Kharbanda
+                <p class="indentity">Managing Director, Global</p>
+                </h3>
+                <p class="mt-md-2">Our global reach is a testament to our commitment to innovation and collaboration. 
+                    We leverage our diverse perspectives to anticipate challenges, seize opportunities, and deliver transformative solutions for our clients and partners.
+                </p>
             </div>
             <div class="col-md-6 col-6 product-incfhny mt-6">
                 <div class="weitemshny-grid oposition-relative">
-                    <a href="#img" class="d-block zoom"><img src="assets/images/g6.jpg" alt=""
+                    <a href="#img" class="d-block zoom"><img src="assets/images/shalini_client.jpeg" alt=""
                             class="img-fluid news-image"></a>
                     <div class="witemshny-inf">
                     </div>
                 </div>
-                <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img"> The primary goal of all business</a>
+                <h3 class="gdnhy-1 mt-lg-4 mt-3">Shalini Kharbanda
+                <p class="indentity">Chief Executive Officer</p>
                 </h4>
-                <p class="mt-md-2">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam.</p>
+                <p class="mt-md-2">At Vinayak, we lead with integrity, passion, and a relentless pursuit of excellence. 
+                    Our success is defined by the success of our clients, and we're dedicated to building lasting partnerships based on trust, transparency, and a shared vision. 
+                </p>
             </div>
         </div>
         <!--//row-1-->

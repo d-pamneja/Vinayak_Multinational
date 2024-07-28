@@ -12,7 +12,7 @@
                             <i class="fas fa-leaf"></i>
                         </div>
                         <h4><a href="agro.php" class="title-head mb-3">Agro Chemicals</a></h4>
-                        <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                        <p class="text-para">Cultivating growth with innovative crop solutions</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
@@ -21,7 +21,7 @@
                             <i class="fas fa-user-tie"></i>
                         </div>
                         <h4><a href="consulting.php" class="title-head mb-3">Consulting</a></h4>
-                        <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                        <p class="text-para">Expert guidance for navigating the complex life sciences landscape</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
@@ -30,7 +30,7 @@
                             <i class="fas fa-pills"></i>
                         </div>
                         <h4><a href="pharma.php" class="title-head mb-3">Pharmaceuticals</a></h4>
-                        <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                        <p class="text-para">Delivering life-changing therapies and healthcare solutions</p>
                     </div>
                 </div>
             </div>
