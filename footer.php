@@ -49,32 +49,32 @@
                     <div class="end-column row">
                         <div class="col-4 w3indta-grid">
                             <a href="#insta">
-                                <img src="assets/images/g1.jpg" class="img-fluid radius-image" alt="poultryfield">
+                                <img src="assets/images/agro_image3.jpeg" class="img-fluid radius-image" alt="vinayakMultinational">
                             </a>
                         </div>
                         <div class="col-4 w3indta-grid">
                             <a href="#insta">
-                                <img src="assets/images/g2.jpg" class="img-fluid radius-image" alt="poultryfield">
+                                <img src="assets/images/agro_image2.jpeg" class="img-fluid radius-image" alt="vinayakMultinational">
                             </a>
                         </div>
                         <div class="col-4 w3indta-grid">
                             <a href="#insta">
-                                <img src="assets/images/g3.jpg" class="img-fluid radius-image" alt="poultryfield">
+                                <img src="assets/images/agro_image4.jpeg" class="img-fluid radius-image" alt="vinayakMultinational">
                             </a>
                         </div>
                         <div class="col-4 w3indta-grid mt-4">
                             <a href="#insta">
-                                <img src="assets/images/g4.jpg" class="img-fluid radius-image" alt="poultryfield">
+                                <img src="assets/images/pharma_image3.jpeg" class="img-fluid radius-image" alt="vinayakMultinational">
                             </a>
                         </div>
                         <div class="col-4 w3indta-grid mt-4">
                             <a href="#insta">
-                                <img src="assets/images/g5.jpg" class="img-fluid radius-image" alt="poultryfield">
+                                <img src="assets/images/pharma_image1.jpeg" class="img-fluid radius-image" alt="vinayakMultinational">
                             </a>
                         </div>
                         <div class="col-4 w3indta-grid mt-4">
                             <a href="#insta">
-                                <img src="assets/images/g6.jpg" class="img-fluid radius-image" alt="poultryfield">
+                                <img src="assets/images/pharma_image2.jpeg" class="img-fluid radius-image" alt="vinayakMultinational">
                             </a>
                         </div>
 
@@ -84,13 +84,6 @@
             </div>
             <div class="below-section text-center pt-lg-4 mt-5">
                 <p class="copy-text">&copy; 2024 Vinayak Multinational. All rights reserved.</p>
-                <ul class="footer-gd-16 d-flex justify-content-center">
-                    <li><a href="#terms">Terms
-                        </a></li>
-                    <li class="mx-2">/
-                    </li>
-                    <li><a href="#policy">Privacy Policy</a></li>
-                </ul>
             </div>
         </div>
     </div>
