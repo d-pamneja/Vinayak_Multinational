@@ -1,7 +1,3 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
--->
 <!doctype html>
 <html lang="en">
 
@@ -125,5 +121,4 @@ Author URL: http://w3layouts.com
     <script src="assets/js/bootstrap.min.js"></script>
 
 </body>
-
 </html>
