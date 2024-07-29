@@ -26,7 +26,6 @@
                             <h3>Links</h3>
                             <ul class="footer-gd-16">
                                 <li><a href="about.php">About Us</a></li>
-                                <li><a href="about.php">Team</a></li>
                                 <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
@@ -34,11 +33,9 @@
                             <h3>Services</h3>
                             <ul class="footer-gd-16">
 
-                                <li><a href="agro.php">
-                                        Agro Chemicals</a></li>
+                                <li><a href="agro.php">Agro Chemicals</a></li>
                                 <li><a href="pharma.php">Pharmaceutical</a></li>
-                                <li><a href="consulting.php">
-                                        Consulting</a></li>
+                                <li><a href="consulting.php">Consulting</a></li>
 
                             </ul>
                         </div>
