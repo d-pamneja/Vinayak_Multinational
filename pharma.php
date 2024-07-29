@@ -46,26 +46,23 @@
             <div class="row">
                 <div class="col-lg-6 pe-lg-5">
                     <div class="w3l-abouthny-img">
-                        <img src="assets/images/ab4.jpg" alt="" class="img-fluid radius-image">
+                        <img src="assets/images/pharma_banner1.jpeg" alt="" class="img-fluid radius-image">
                     </div>
                 </div>
                 <div class="col-lg-6 mt-lg-0 mt-5">
                     <div class="w3l-abouthny-info">
                         <h6 class="title-subw3hny">What We Do</h6>
-                        <h3 class="title-w3l">We give you complete control
-                            of your Poultry Fields.</h3>
-                        <p class="mt-4">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo, ultrices in ligula.
-                            Semper at tempufddfel.Lorem ipsum dolor sit, amet consectetur elit. Earum mollitia cum ex
-                            ipsam autem!earum sequi amet.</p>
+                        <h3 class="title-w3l">Your Trusted Partner for Pharmaceutical Distribution and Healthcare Solutions</h3>
+                        <p class="mt-4">Pharma Division, Back in India by our sister concern is driven by dynamic professionals and mammoth cutting-edge facilities, ambitiously caters to a vast network, aspiring to revolutionize medicinal distribution and healthcare accessibility across numerous markets</p>
                         <ul class="w3l-right-book w3l-right-book-grid mt-md-5 mt-4">
-                            <li><span class="fas fa-check"></span> Fresh Chiken</li>
-                            <li><span class="fas fa-check"></span> Raw Chiken Broiler</li>
-                            <li><span class="fas fa-check"></span> Brown Eggs</li>
-                            <li><span class="fas fa-check"></span> White Eggs</li>
-                            <li><span class="fas fa-check"></span> 24/7 Hours Support</li>
-                            <li><span class="fas fa-check"></span> Fast Delivery</li>
+                            <li><span class="fas fa-check"></span> Extensive Range of Generic and Branded Medications</li>
+                            <li><span class="fas fa-check"></span> Reliable Cold Chain Storage and Distribution</li>
+                            <li><span class="fas fa-check"></span> Regulatory Compliance and Quality Assurance</li>
+                            <li><span class="fas fa-check"></span> Customized Solutions for Healthcare Providers</li>
+                            <li><span class="fas fa-check"></span> 24/7 Customer Support and Order Tracking</li>
+                            <li><span class="fas fa-check"></span> Dedicated Medical Representative Support</li>
                         </ul>
-                        <a href="#services" class="btn btn-style btn-primary mt-4">Read More</a>
+                        <!-- <a href="#services" class="btn btn-style btn-primary mt-4">Read More</a> -->
                     </div>
                 </div>
             </div>
@@ -84,69 +81,66 @@
                     <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
-                                <i class="fas fa-egg"></i>
+                                <i class="fas fa-atom"></i>
                             </div>
                             <div class="icon-info text-left">
-                                <h4><a href="#service" class="title-head mt-0">Alternative egg</a></h4>
-                                <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                                <h4 class="title-head mt-0">Drug Discovery & Development</h4>
+                                <p class="text-para">Accelerate your drug development process with our innovative research and expertise </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
-                                <i class="fas fa-warehouse"></i>
+                                <i class="fas fa-stethoscope"></i>
                             </div>
                             <div class="icon-info text-left">
-                                <h4><a href="#service" class="title-head mt-0">
-                                        Poultry Cages</a></h4>
-                                <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                                <h4 class="title-head mt-0"> Clinical Trial Management</a></h4>
+                                <p class="text-para">Ensure the success of your clinical trials with our comprehensive project management and services </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
-                                <i class="fas fa-kiwi-bird"></i>
+                                <i class="fas fa-file-contract"></i>
                             </div>
                             <div class="icon-info text-left">
-                                <h4><a href="#service" class="title-head mt-0">Breeder Management</a></h4>
-                                <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                                <h4 class="title-head mt-0">Regulatory Affairs & Compliance</h4>
+                                <p class="text-para">Navigate complex regulatory landscapes and ensure compliance with our expert guidance </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
-                                <i class="fas fa-feather"></i>
+                                <i class="fas fa-link"></i>
                             </div>
                             <div class="icon-info text-left">
-                                <h4><a href="#service" class="title-head mt-0">Poultry Climate</a></h4>
-                                <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                                <h4 class="title-head mt-0">Manufacturing & Supply Chain</h4>
+                                <p class="text-para">Streamline your manufacturing and supply chain operations with our efficient solutions and robust planning</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
-                                <i class="fas fa-sign-language"></i>
+                                <i class="fas fa-handshake"></i>
                             </div>
                             <div class="icon-info text-left">
-                                <h4><a href="#service" class="title-head mt-0">
-                                        Residue Teatment</a></h4>
-                                <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                                <h4 class="title-head mt-0">Market Access & Commercialization</h4>
+                                <p class="text-para">Maximize the impact of your products with our market access strategies and commercialization expertise. </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
-                                <i class="fas fa-fan"></i>
+                                <i class="fas fa-shield-alt"></i>
                             </div>
                             <div class="icon-info text-left">
-                                <h4><a href="#service" class="title-head mt-0">
-                                        Exhaust air Treatment</a></h4>
-                                <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                                <h4 class="title-head mt-0">Pharmacovigilance & Safety</h4>
+                                <p class="text-para">Monitor and ensure the safety of your drugs throughout their lifecycle with our pharmacovigilance services.  </p>
                             </div>
                         </div>
                     </div>
@@ -158,41 +152,45 @@
 
     <!--/w3l-grids-->
     <section class="w3l-witemshny-main py-5">
+        <div class="title-content text-center mb-lg-3 mb-4">
+            <h6 class="title-subw3hny mb-1">Our Mission</h6>
+            <h3 class="title-w3l">How We Deliever</h3>
+        </div>
         <div class="container py-md-4">
             <!--/row-1-->
             <div class="witemshny-grids row">
                 <div class="col-md-4 col-6 product-incfhny mt-4">
                     <div class="weitemshny-grid oposition-relative">
-                        <a href="#img" class="d-block zoom"><img src="assets/images/g1.jpg" alt=""
+                        <a href="#img" class="d-block zoom"><img src="assets/images/pharma_image1.jpeg" alt=""
                                 class="img-fluid news-image"></a>
                         <div class="witemshny-inf">
                         </div>
                     </div>
-                    <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img">We are one of leading company</a>
+                    <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img">Pioneering the Future of Medicine</a>
                     </h4>
-                    <p class="mt-md-2">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam.</p>
+                    <p class="mt-md-2">Our commitment to research and development drives innovation, leading to groundbreaking pharmaceutical discoveries.</p>
                 </div>
                 <div class="col-md-4 col-6 product-incfhny mt-4">
                     <div class="weitemshny-grid oposition-relative">
-                        <a href="#img" class="d-block zoom"><img src="assets/images/g6.jpg" alt=""
+                        <a href="#img" class="d-block zoom"><img src="assets/images/pharma_image2.jpeg" alt=""
                                 class="img-fluid news-image"></a>
                         <div class="witemshny-inf">
                         </div>
                     </div>
-                    <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img"> The primary goal of all business</a>
+                    <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img">Improving Lives Through Quality Care</a>
                     </h4>
-                    <p class="mt-md-2">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam.</p>
+                    <p class="mt-md-2">We prioritize patient well-being, delivering high-quality pharmaceuticals that make a real difference in people's lives.</p>
                 </div>
                 <div class="col-md-4 col-6 product-incfhny mt-4">
                     <div class="weitemshny-grid oposition-relative">
-                        <a href="#img" class="d-block zoom"><img src="assets/images/g2.jpg" alt=""
+                        <a href="#img" class="d-block zoom"><img src="assets/images/pharma_image3.jpeg" alt=""
                                 class="img-fluid news-image"></a>
                         <div class="witemshny-inf">
                         </div>
                     </div>
-                    <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img"> Learn how to grow Business</a>
+                    <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img">Expanding Access to Essential Medicines</a>
                     </h4>
-                    <p class="mt-md-2">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam.</p>
+                    <p class="mt-md-2">Our global reach ensures that essential medications are available to patients worldwide, regardless of their location.</p>
                 </div>
             </div>
             <!--//row-1-->

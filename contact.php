@@ -31,7 +31,7 @@
                     <div class="w3breadcrumb-right">
                         <ul class="breadcrumbs-custom-path">
                             <li><a href="index.php">Home</a></li>
-                            <li class="active"><span class="fas fa-arrow-right mx-2"></span> Contact</li>
+                            <li class="active"><span class="fas fa-arrow-right mx-2"></span> Contact Us</li>
                         </ul>
                     </div>
                 </div>
@@ -46,9 +46,7 @@
     <!-- /map-->
     <div class="contacts-sub-5">
         <div class="contacts-mapw3 position-relative">
-            <iframe
-                src="https://www.google.com/maps/d/u/0/embed?mid=1WMe11PzBGd5wSNZubHKf-qmcSGjb4yU&ehbc=2E312F&noprof=1"
-                width="640" height="480"></iframe>
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1MbiLovuw4z25S9I4iq5ZDe-xOfwNdLg&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
         </div>
         <br>
     </div>

@@ -35,5 +35,16 @@
                 </div>
             </div>
         </div>
+        <br><br>
+        <div class="main-cont-wthree-2">
+            <p class="my-3">
+                Vinayak Group of Companies embodies the essence of Lord Ganesha, the God of Beginnings, and Master of Obstacles.
+                Drawing inspiration from his wisdom, intellect, and pioneering spirit, we are growing from a young, dynamic firm into a multifaceted enterprise. 
+                We are proud to state that our strong financial foundation enables us to function smoothly on a day-to-day basis.
+            </p>
+            <p class="my-3">
+            Under the visionary leadership of our Directors, Mr. Puneet Kharbanda & Mrs. Shalini Kharbanda both seasoned, experienced Professionals, we have diversified into several sectors and are on the threshold of achieving a significant financial milestone.
+            </p>
+        </div>
     </div>
 </section>
