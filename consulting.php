@@ -46,37 +46,36 @@
             <div class="row">
                 <div class="col-lg-6 pe-lg-5">
                     <div class="w3l-abouthny-img">
-                        <img src="assets/images/ab4.jpg" alt="" class="img-fluid radius-image">
+                        <img src="assets/images/consultancy_banner1.jpeg" alt="" class="img-fluid radius-image">
                     </div>
                 </div>
                 <div class="col-lg-6 mt-lg-0 mt-5">
                     <div class="w3l-abouthny-info">
-                        <h6 class="title-subw3hny">What We Do</h6>
-                        <h3 class="title-w3l">We give you complete control
-                            of your Poultry Fields.</h3>
-                        <p class="mt-4">Lorem ipsum viverra feugiat. Pellen tesque libero ut justo, ultrices in ligula.
-                            Semper at tempufddfel.Lorem ipsum dolor sit, amet consectetur elit. Earum mollitia cum ex
-                            ipsam autem!earum sequi amet.</p>
+                        <h6 class="title-subw3hny">How We Guide</h6>
+                        <h3 class="title-w3l">Unlocking the Potential of Your Fields with Expert Guidance</h3>
+                        <p class="mt-4">Consultancy & Advisory Division in Australia embarks on an exhilarating global journey, targeting dynamic markets in India & Australia, fostering ground breaking partnerships and embracing innovative opportunities for the organisations to expand in various new fields.</p>
+                        <br>
+                        <h4 class="title-w4l">Why Choose Us?</h4>
                         <ul class="w3l-right-book w3l-right-book-grid mt-md-5 mt-4">
-                            <li><span class="fas fa-check"></span> Fresh Chiken</li>
-                            <li><span class="fas fa-check"></span> Raw Chiken Broiler</li>
-                            <li><span class="fas fa-check"></span> Brown Eggs</li>
-                            <li><span class="fas fa-check"></span> White Eggs</li>
-                            <li><span class="fas fa-check"></span> 24/7 Hours Support</li>
-                            <li><span class="fas fa-check"></span> Fast Delivery</li>
+                            <li><span class="fas fa-check"></span> Experience and expertise in Australian businesses</li>
+                            <li><span class="fas fa-check"></span> Science-backed approach to problem-solving.</li>
+                            <li><span class="fas fa-check"></span> Commitment to sustainability and environmental responsibility.</li>
+                            <li><span class="fas fa-check"></span> Client-focused approach with customized solutions.</li>
+                            <li><span class="fas fa-check"></span> Proven track record of success.</li>
+                            <li><span class="fas fa-check"></span> Expedient Solutions across the board</li>
                         </ul>
-                        <a href="#services" class="btn btn-style btn-primary mt-4">Read More</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!--//w3l-index3-->
-    <!--/features-section-->
-    <section class="w3l-features w3l-services-page py-5" id="work">
+    
+     <!--/features-section-->
+     <section class="w3l-features w3l-services-page py-5" id="work">
         <div class="container py-lg-5 py-md-4 py-2">
             <div class="title-content text-center mb-lg-3 mb-4">
-                <h6 class="title-subw3hny mb-1">Our Services</h6>
+                <h6 class="title-subw3hny mb-1">Our Core Values</h6>
                 <h3 class="title-w3l">What We Offer</h3>
             </div>
             <div class="main-cont-wthree-2">
@@ -84,69 +83,66 @@
                     <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
-                                <i class="fas fa-egg"></i>
+                                <i class="fas fa-hands-helping"></i>
                             </div>
                             <div class="icon-info text-left">
-                                <h4><a href="#service" class="title-head mt-0">Alternative egg</a></h4>
-                                <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                                <h4 class="title-head mt-0">Client-Centric Focus</h4>
+                                <p class="text-para">We prioritize understanding our clients' unique needs and goals, tailoring solutions to drive their success. </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
-                                <i class="fas fa-warehouse"></i>
+                                <i class="fas fa-search"></i>
                             </div>
                             <div class="icon-info text-left">
-                                <h4><a href="#service" class="title-head mt-0">
-                                        Poultry Cages</a></h4>
-                                <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                                <h4 class="title-head mt-0"> Transparency</a></h4>
+                                <p class="text-para">We uphold the highest ethical standards, maintaining open communication and building trust with our clients. </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
-                                <i class="fas fa-kiwi-bird"></i>
+                                <i class="fas fa-star"></i> 
                             </div>
                             <div class="icon-info text-left">
-                                <h4><a href="#service" class="title-head mt-0">Breeder Management</a></h4>
-                                <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                                <h4 class="title-head mt-0">Excellence</h4>
+                                <p class="text-para">We embrace innovative approaches and strive for excellence in every aspect of our work</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
-                                <i class="fas fa-feather"></i>
+                                <i class="fas fa-users"></i>
                             </div>
                             <div class="icon-info text-left">
-                                <h4><a href="#service" class="title-head mt-0">Poultry Climate</a></h4>
-                                <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                                <h4 class="title-head mt-0">Collaboration</h4>
+                                <p class="text-para">We foster a collaborative environment valuing diverse perspectives and leveraging our collective expertise</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
-                                <i class="fas fa-sign-language"></i>
+                                <i class="fas fa-rocket"></i>
                             </div>
                             <div class="icon-info text-left">
-                                <h4><a href="#service" class="title-head mt-0">
-                                        Residue Teatment</a></h4>
-                                <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                                <h4 class="title-head mt-0">Performance</h4>
+                                <p class="text-para">We are committed to delivering measurable results that have a profound impact on our clients' businesses </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
-                                <i class="fas fa-fan"></i>
+                                <i class="fas fa-recycle"></i>
                             </div>
                             <div class="icon-info text-left">
-                                <h4><a href="#service" class="title-head mt-0">
-                                        Exhaust air Treatment</a></h4>
-                                <p class="text-para">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam. </p>
+                                <h4 class="title-head mt-0">Sustainability</h4>
+                                <p class="text-para">We integrate sustainability into our strategies which help clients with long-term success and minimise environmental impact</p>
                             </div>
                         </div>
                     </div>
@@ -156,50 +152,6 @@
     </section>
     <!--//features-section -->
 
-    <!--/w3l-grids-->
-    <section class="w3l-witemshny-main py-5">
-        <div class="container py-md-4">
-            <!--/row-1-->
-            <div class="witemshny-grids row">
-                <div class="col-md-4 col-6 product-incfhny mt-4">
-                    <div class="weitemshny-grid oposition-relative">
-                        <a href="#img" class="d-block zoom"><img src="assets/images/g1.jpg" alt=""
-                                class="img-fluid news-image"></a>
-                        <div class="witemshny-inf">
-                        </div>
-                    </div>
-                    <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img">We are one of leading company</a>
-                    </h4>
-                    <p class="mt-md-2">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam.</p>
-                </div>
-                <div class="col-md-4 col-6 product-incfhny mt-4">
-                    <div class="weitemshny-grid oposition-relative">
-                        <a href="#img" class="d-block zoom"><img src="assets/images/g6.jpg" alt=""
-                                class="img-fluid news-image"></a>
-                        <div class="witemshny-inf">
-                        </div>
-                    </div>
-                    <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img"> The primary goal of all business</a>
-                    </h4>
-                    <p class="mt-md-2">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam.</p>
-                </div>
-                <div class="col-md-4 col-6 product-incfhny mt-4">
-                    <div class="weitemshny-grid oposition-relative">
-                        <a href="#img" class="d-block zoom"><img src="assets/images/g2.jpg" alt=""
-                                class="img-fluid news-image"></a>
-                        <div class="witemshny-inf">
-                        </div>
-                    </div>
-                    <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img"> Learn how to grow Business</a>
-                    </h4>
-                    <p class="mt-md-2">Lorem ipsum dolor sit amet, elit. Id ab commodi magnam.</p>
-                </div>
-            </div>
-            <!--//row-1-->
-
-        </div>
-    </section>
-    <!--//w3l-grids-->
     <!--/footer-->
     <?php include('footer.php')?>
     <!-- //footer -->
