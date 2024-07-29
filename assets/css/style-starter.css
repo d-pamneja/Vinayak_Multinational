@@ -16770,7 +16770,7 @@ fieldset:disabled .btn {
 }
 
 [data-theme="dark"] {
-    --primary-color: #06BB58;
+    --primary-color: #F11E09;
     --font-color: #c2c2c2;
     --bg-color: #0b0d0e;
     --heading-color: #eee;
@@ -19366,6 +19366,16 @@ ul.w3_social_list li a i {
 
 
 /*--//about--*/
+
+.w3l-abouthny-img img {
+    /* Target the image directly */
+    display: block;
+    /* Make it a block-level element for centering */
+    margin: 0 auto;
+    /* Center horizontally */
+    max-width: 100%;
+    /* Ensure it doesn't overflow its container */
+}
 
 
 /*--/services--*/

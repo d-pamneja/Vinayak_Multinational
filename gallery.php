@@ -9,78 +9,42 @@
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
                 <a href="#gal">
                     <div class="w3layouts_team_grid">
-                        <img src="assets/images/g1.jpg" alt=" " class="img-fluid radius-image" />
-                        <div class="w3layouts_team_grid_pos">
-                            <div class="wthree_text">
-                                <i class="fas fa-search-plus"></i>
-                            </div>
-                        </div>
-
+                        <img src="assets/images/agro_image1.jpeg" alt=" " class="img-fluid radius-image" />
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
                 <a href="#gal">
                     <div class="w3layouts_team_grid">
-                        <img src="assets/images/g2.jpg" alt=" " class="img-fluid radius-image" />
-                        <div class="w3layouts_team_grid_pos">
-                            <div class="wthree_text">
-                                <i class="fas fa-search-plus"></i>
-                            </div>
-                        </div>
-
+                        <img src="assets/images/pharma_image1.jpeg" alt=" " class="img-fluid radius-image" />
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
                 <a href="#gal">
                     <div class="w3layouts_team_grid">
-                        <img src="assets/images/g3.jpg" alt=" " class="img-fluid radius-image" />
-                        <div class="w3layouts_team_grid_pos">
-                            <div class="wthree_text">
-                                <i class="fas fa-search-plus"></i>
-                            </div>
-                        </div>
-
+                        <img src="assets/images/agro_image2.jpeg" alt=" " class="img-fluid radius-image" />
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
                 <a href="#gal">
                     <div class="w3layouts_team_grid">
-                        <img src="assets/images/g4.jpg" alt=" " class="img-fluid radius-image" />
-                        <div class="w3layouts_team_grid_pos">
-                            <div class="wthree_text">
-                                <i class="fas fa-search-plus"></i>
-                            </div>
-                        </div>
-
+                        <img src="assets/images/pharma_image2.jpeg" alt=" " class="img-fluid radius-image" />
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
                 <a href="#gal">
                     <div class="w3layouts_team_grid">
-                        <img src="assets/images/g5.jpg" alt=" " class="img-fluid radius-image" />
-                        <div class="w3layouts_team_grid_pos">
-                            <div class="wthree_text">
-                                <i class="fas fa-search-plus"></i>
-                            </div>
-                        </div>
-
+                        <img src="assets/images/agro_image3.jpeg" alt=" " class="img-fluid radius-image" />
                     </div>
                 </a>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
                 <a href="#gal">
                     <div class="w3layouts_team_grid">
-                        <img src="assets/images/g6.jpg" alt=" " class="img-fluid radius-image" />
-                        <div class="w3layouts_team_grid_pos">
-                            <div class="wthree_text">
-                                <i class="fas fa-search-plus"></i>
-                            </div>
-                        </div>
-
+                        <img src="assets/images/pharma_image3.jpeg" alt=" " class="img-fluid radius-image" />
                     </div>
                 </a>
             </div>
