@@ -46,7 +46,6 @@
                 </nav>
             </div>
             <!-- //toggle switch for light and dark theme -->
-
         </nav>
     </div>
 </header>

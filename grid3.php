@@ -1,6 +1,5 @@
 <section class="w3l-witemshny-main py-5">
     <div class="container py-md-4">
-        <!--/row-1-->
         <div class="witemshny-grids row">
             <div class="col-md-6 col-6 product-incfhny mt-6">
                 <div class="weitemshny-grid oposition-relative">
@@ -31,7 +30,5 @@
                 </p>
             </div>
         </div>
-        <!--//row-1-->
-
     </div>
 </section>
