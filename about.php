@@ -53,7 +53,11 @@
                     </h3>
 
                     <p class="mt-3">We empower your business with comprehensive solutions in pharmaceuticals, agrochemicals, and expert consulting. 
-                        Our focus is on driving innovation, ensuring regulatory compliance, and maximizing your market potential.</p>
+                        Our focus is on driving innovation, ensuring regulatory compliance, and maximizing your market potential.
+                    </p>
+                    <p class="mt-3">
+                        We are in the process of replicating in Australia the same era which Back in India, where we are boldly pioneers in agrochemical surfactants, infusing scientific heritage with innovative aspirations, passionately driving agricultural advancements and industry excellence towards a dynamic, thriving future.
+                    </p>
                     <div class="row two-grids mt-5 pt-lg-4">
                         <div class="col-sm-6 grids_info d-flex">
                             <i class="fas fa-user-shield"></i>
@@ -75,7 +79,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5 offset-lg-1 text-end mt-lg-0 mt-5 position-relative">
-                    <img src="assets/images/ab.jpg" alt="" class="img-fluid radius-image">
+                    <img src="assets/images/family_client.jpeg" alt="" class="img-fluid radius-image">
                     <div class="imginfo__box">
                         <h6 class="imginfo__title">30+</h6>
                         <p>Years of experience</p>

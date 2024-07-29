@@ -26,7 +26,7 @@
                         <a class="nav-link" href="consulting.php">Consulting</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.php">Contact</a>
+                        <a class="nav-link" href="contact.php">Contact Us</a>
                     </li>
 
                 </ul>
