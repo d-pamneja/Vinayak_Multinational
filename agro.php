@@ -181,7 +181,7 @@
         </div>
     </section>
     <!--//features-section -->
-    
+
     <!--/w3l-grids-->
     <section class="w3l-witemshny-main py-5">
         <div class="title-content text-center mb-lg-3 mb-4">
@@ -191,7 +191,7 @@
         <div class="container py-md-4">
             <!--/row-1-->
             <div class="witemshny-grids row">
-                <div class="col-md-4 col-6 product-incfhny mt-4">
+                <div class="col-md-4 col-12 product-incfhny mt-4">
                     <div class="weitemshny-grid oposition-relative">
                         <a href="#img" class="d-block zoom"><img src="assets/images/agro_image1.jpeg" alt=""
                                 class="img-fluid news-image"></a>
@@ -207,7 +207,7 @@
                         agrochemical solutions that maximize yields and protect precious resources.
                     </p>
                 </div>
-                <div class="col-md-4 col-6 product-incfhny mt-4">
+                <div class="col-md-4 col-12 product-incfhny mt-4">
                     <div class="weitemshny-grid oposition-relative">
                         <a href="#img" class="d-block zoom"><img src="assets/images/agro_image2.jpeg" alt=""
                                 class="img-fluid news-image"></a>
@@ -222,7 +222,7 @@
                         environmentally responsible.
                     </p>
                 </div>
-                <div class="col-md-4 col-6 product-incfhny mt-4">
+                <div class="col-md-4 col-12 product-incfhny mt-4">
                     <div class="weitemshny-grid oposition-relative">
                         <a href="#img" class="d-block zoom"><img src="assets/images/agro_image3.jpeg" alt=""
                                 class="img-fluid news-image"></a>

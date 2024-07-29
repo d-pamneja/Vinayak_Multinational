@@ -157,9 +157,8 @@
             <h3 class="title-w3l">How We Deliever</h3>
         </div>
         <div class="container py-md-4">
-            <!--/row-1-->
             <div class="witemshny-grids row">
-                <div class="col-md-4 col-6 product-incfhny mt-4">
+                <div class="col-md-4 col-12 product-incfhny mt-4">
                     <div class="weitemshny-grid oposition-relative">
                         <a href="#img" class="d-block zoom"><img src="assets/images/pharma_image1.jpeg" alt=""
                                 class="img-fluid news-image"></a>
@@ -170,7 +169,7 @@
                     </h4>
                     <p class="mt-md-2">Our commitment to research and development drives innovation, leading to groundbreaking pharmaceutical discoveries.</p>
                 </div>
-                <div class="col-md-4 col-6 product-incfhny mt-4">
+                <div class="col-md-4 col-12 product-incfhny mt-4">
                     <div class="weitemshny-grid oposition-relative">
                         <a href="#img" class="d-block zoom"><img src="assets/images/pharma_image2.jpeg" alt=""
                                 class="img-fluid news-image"></a>
@@ -181,7 +180,7 @@
                     </h4>
                     <p class="mt-md-2">We prioritize patient well-being, delivering high-quality pharmaceuticals that make a real difference in people's lives.</p>
                 </div>
-                <div class="col-md-4 col-6 product-incfhny mt-4">
+                <div class="col-md-4 col-12 product-incfhny mt-4">
                     <div class="weitemshny-grid oposition-relative">
                         <a href="#img" class="d-block zoom"><img src="assets/images/pharma_image3.jpeg" alt=""
                                 class="img-fluid news-image"></a>
@@ -193,8 +192,6 @@
                     <p class="mt-md-2">Our global reach ensures that essential medications are available to patients worldwide, regardless of their location.</p>
                 </div>
             </div>
-            <!--//row-1-->
-
         </div>
     </section>
     <!--//w3l-grids-->
