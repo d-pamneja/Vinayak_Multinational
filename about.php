@@ -136,21 +136,6 @@
                     <div class="team-member text-center">
                         <div class="team-img">
                             <img src="assets/images/puneet_client.jpeg" alt="" class="radius-image">
-                            <div class="overlay-team">
-                                <div class="team-details text-center">
-                                    <div class="socials mt-20">
-                                        <a href="#url">
-                                            <span class="fab fa-facebook-f"></span>
-                                        </a>
-                                        <a href="#url">
-                                            <span class="fab fa-twitter"></span>
-                                        </a>
-                                        <a href="#url">
-                                            <span class="fab fa-linkedin-in"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                         <a href="#url" class="team-title">Puneet Kharbanda</a>
                         <p>Director</p>
@@ -161,21 +146,6 @@
                     <div class="team-member text-center">
                         <div class="team-img">
                             <img src="assets/images/shalini_client.jpeg" alt="" class="radius-image">
-                            <div class="overlay-team">
-                                <div class="team-details text-center">
-                                    <div class="socials mt-20">
-                                        <a href="#url">
-                                            <span class="fab fa-facebook-f"></span>
-                                        </a>
-                                        <a href="#url">
-                                            <span class="fab fa-twitter"></span>
-                                        </a>
-                                        <a href="#url">
-                                            <span class="fab fa-linkedin-in"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                         <a href="#url" class="team-title">Shalini Kharbanda</a>
                         <p>Director</p>
@@ -186,21 +156,6 @@
                     <div class="team-member text-center">
                         <div class="team-img">
                             <img src="assets/images/maurayan_client.jpeg" alt="" class="radius-image">
-                            <div class="overlay-team">
-                                <div class="team-details text-center">
-                                    <div class="socials mt-20">
-                                        <a href="#url">
-                                            <span class="fab fa-facebook-f"></span>
-                                        </a>
-                                        <a href="#url">
-                                            <span class="fab fa-twitter"></span>
-                                        </a>
-                                        <a href="#url">
-                                            <span class="fab fa-linkedin-in"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                         <a href="#url" class="team-title">Maurayan Kharbanda</a>
                         <p>Director</p>
