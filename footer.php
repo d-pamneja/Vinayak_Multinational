@@ -80,7 +80,7 @@
                 </div>
             </div>
             <div class="below-section text-center pt-lg-4 mt-5">
-                <p class="copy-text">&copy; 2024 Vinayak Multinational. All rights reserved.</p>
+                <p class="copy-text">&copy; 2024 Vinayak Multinationals. All rights reserved.</p>
             </div>
         </div>
     </div>
