@@ -132,7 +132,7 @@
                 <h3 class="title-w3l">Who Works With Us.</h3>
             </div>
             <div class="row team-row justify-content-center">
-                <div class="col-lg-4 col-6 team-wrap mt-lg-5 mt-4">
+                <div class="col-lg-4 col-12 team-wrap mt-lg-5 mt-4">
                     <div class="team-member text-center">
                         <div class="team-img">
                             <img src="assets/images/puneet_client.jpeg" alt="" class="radius-image">
@@ -142,7 +142,7 @@
                     </div>
                 </div>
                 <!-- end team member -->
-                <div class="col-lg-4 col-6 team-wrap mt-lg-5 mt-4">
+                <div class="col-lg-4 col-12 team-wrap mt-lg-5 mt-4">
                     <div class="team-member text-center">
                         <div class="team-img">
                             <img src="assets/images/shalini_client.jpeg" alt="" class="radius-image">
@@ -152,7 +152,7 @@
                     </div>
                 </div>
                 <!-- end team member -->
-                <div class="col-lg-4 col-6 team-wrap mt-lg-5 mt-4">
+                <div class="col-lg-4 col-12 team-wrap mt-lg-5 mt-4">
                     <div class="team-member text-center">
                         <div class="team-img">
                             <img src="assets/images/maurayan_client.jpeg" alt="" class="radius-image">
