@@ -150,7 +150,7 @@
                             </div>
                         </div>
                         <a href="#url" class="team-title">Puneet Kharbanda</a>
-                        <p>Managing Director, Global</p>
+                        <p>Director</p>
                     </div>
                 </div>
                 <!-- end team member -->
@@ -175,7 +175,7 @@
                             </div>
                         </div>
                         <a href="#url" class="team-title">Shalini Kharbanda</a>
-                        <p>Chief Executive Officer</p>
+                        <p>Director</p>
                     </div>
                 </div>
                 <!-- end team member -->
@@ -200,7 +200,7 @@
                             </div>
                         </div>
                         <a href="#url" class="team-title">Maurayan Kharbanda</a>
-                        <p>Managing Director, Australia</p>
+                        <p>Director</p>
                     </div>
                 </div>
                 <!-- end team member -->

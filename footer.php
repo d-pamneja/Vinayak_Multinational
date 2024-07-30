@@ -34,9 +34,8 @@
                             <ul class="footer-gd-16">
 
                                 <li><a href="agro.php">Agro Chemicals</a></li>
-                                <li><a href="pharma.php">Pharmaceutical</a></li>
                                 <li><a href="consulting.php">Consulting</a></li>
-
+                                <li><a href="pharma.php">Pharmaceutical</a></li>
                             </ul>
                         </div>
                     </div>
