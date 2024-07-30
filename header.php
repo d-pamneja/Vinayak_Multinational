@@ -28,7 +28,6 @@
                     <li class="nav-item">
                         <a class="nav-link" href="contact.php">Contact Us</a>
                     </li>
-
                 </ul>
             </div>
             <!-- toggle switch for light and dark theme -->

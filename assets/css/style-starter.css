@@ -17047,6 +17047,18 @@ a.read:hover span.fas {
     }
 }
 
+@media (max-width: 768px) {
+    /* Hide the theme switch when it's NOT in the menu */
+    .navbar:not(#navbarScroll) .mobile-position {
+        display: none;
+    }
+    /* Ensure the theme switch is visible within the menu */
+    #navbarScroll .theme-switch-wrapper {
+        display: block;
+        margin: 10px 0;
+    }
+}
+
 @media (max-width: 568px) {
     .title-w3l,
     .title-w3l.two {
