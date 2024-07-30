@@ -138,7 +138,7 @@
                             </div>
                             <div class="icon-info text-left">
                                 <h4 class="title-head mt-0">Sustainable Agriculture Solutions</h4>
-                                <p class="text-para">Consulting on sustainable farming practices to minimize environmental impact while maximizing productivity for farmers.<br><br></p>
+                                <p class="text-para">Consulting on sustainable farming practices to minimize environmental impact while maximizing productivity for farmers.<br></p>
                             </div>
                         </div>
                     </div>
@@ -148,8 +148,8 @@
                                 <i class="fas fa-handshake"></i>
                             </div>
                             <div class="icon-info text-left">
-                                <h4 class="title-head mt-0">Regulatory Compliance For Agrochemical Use</h4>
-                                <p class="text-para">Guidance on regulatory compliance for agrochemical use, ensuring adherence to safety standards and environmental regulations. </p>
+                                <h4 class="title-head mt-0">Regulatory Compliance</h4>
+                                <p class="text-para">Regulatory compliance for agrochemical use, ensuring adherence to safety standards and environmental regulations. </p>
                             </div>
                         </div>
                     </div>

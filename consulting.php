@@ -57,7 +57,7 @@
                         <br>
                         <h4 class="title-w4l">Why Choose Us?</h4>
                         <ul class="w3l-right-book w3l-right-book-grid mt-md-5 mt-4">
-                            <li><span class="fas fa-check"></span> Experience and expertise in Australian businesses</li>
+                            <li><span class="fas fa-check"></span> Experience and expertise in Global businesses</li>
                             <li><span class="fas fa-check"></span> Science-backed approach to problem-solving.</li>
                             <li><span class="fas fa-check"></span> Commitment to sustainability and environmental responsibility.</li>
                             <li><span class="fas fa-check"></span> Client-focused approach with customized solutions.</li>
