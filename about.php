@@ -90,6 +90,9 @@
     </section>
     <!--/w3-grids-->
     <section class="w3l-stats-section py-5 pt-0" id="stats">
+        <div class="title-content text-center mx-auto">
+            <h3 class="title-w3l mb-4">OUR GLOBAL SISTER CONCERNS </h3>
+        </div>
         <div class="container py-md-5 pt-0">
             <div class="w3l-stats-inner-inf">
                 <div class="row stats-con">

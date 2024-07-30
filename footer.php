@@ -8,11 +8,7 @@
 
                     <div class="columns-2 mt-lg-5 mt-4">
                         <ul class="social">
-                            <li><a href="#facebook"><i class="fab fa-facebook-f"></i></a>
-                            </li>
                             <li><a href="#linkedin"><i class="fab fa-linkedin-in"></i></a>
-                            </li>
-                            <li><a href="#twitter"><i class="fab fa-twitter"></i></a>
                             </li>
                             <li><a href="#google"><i class="fab fa-google-plus-g"></i></a>
                             </li>
@@ -41,40 +37,17 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 column mt-lg-0 mt-4 pl-xl-0">
-                    <h3>Instagram Feed</h3>
+                    <h3>Reach Out</h3>
                     <div class="end-column row">
-                        <div class="col-4 w3indta-grid">
-                            <a href="#insta">
-                                <img src="assets/images/agro_image3.jpeg" class="img-fluid radius-image" alt="vinayakMultinational">
-                            </a>
-                        </div>
-                        <div class="col-4 w3indta-grid">
-                            <a href="#insta">
-                                <img src="assets/images/agro_image2.jpeg" class="img-fluid radius-image" alt="vinayakMultinational">
-                            </a>
-                        </div>
-                        <div class="col-4 w3indta-grid">
-                            <a href="#insta">
-                                <img src="assets/images/agro_image4.jpeg" class="img-fluid radius-image" alt="vinayakMultinational">
-                            </a>
-                        </div>
-                        <div class="col-4 w3indta-grid mt-4">
-                            <a href="#insta">
-                                <img src="assets/images/pharma_image3.jpeg" class="img-fluid radius-image" alt="vinayakMultinational">
-                            </a>
-                        </div>
-                        <div class="col-4 w3indta-grid mt-4">
-                            <a href="#insta">
-                                <img src="assets/images/pharma_image1.jpeg" class="img-fluid radius-image" alt="vinayakMultinational">
-                            </a>
-                        </div>
-                        <div class="col-4 w3indta-grid mt-4">
-                            <a href="#insta">
-                                <img src="assets/images/pharma_image2.jpeg" class="img-fluid radius-image" alt="vinayakMultinational">
-                            </a>
-                        </div>
-
-
+                        <ul class="cont-3">
+                            <li>
+                                <div class="address-grid d-flex">
+                                    <i class="fas fa-map-marker-alt mt-2"></i>
+                                    <a href="https://www.google.com/maps/d/u/0/embed?mid=1MbiLovuw4z25S9I4iq5ZDe-xOfwNdLg&ehbc=2E312F&noprof=1">
+                                        <p>UNIT 401, LEVEL 4, 9 COMMERCIAL ROAD CAROLINE SPRINGS VIC,3023</p>
+                                    </a>
+                                </div>
+                            </li>
                     </div>
                 </div>
             </div>
