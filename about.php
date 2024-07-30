@@ -49,14 +49,13 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 pe-lg-5">
                     <h6 class="title-subw3hny mb-2">Our Expertise</h6>
-                    <h3 class="title-w3l mb-2">Your Partner in Pharmaceutical and Agrochemical Advancement
+                    <h3 class="title-w3l mb-2">Your Partner in Agrochemicals, Consultancy Services, and Pharmaceuticals
                     </h3>
 
-                    <p class="mt-3">We empower your business with comprehensive solutions in pharmaceuticals, agrochemicals, and expert consulting. 
-                        Our focus is on driving innovation, ensuring regulatory compliance, and maximizing your market potential.
+                    <p class="mt-3">We empower your business with comprehensive solutions in agrochemicals, pharmaceuticals, nutraceuticals, and healthcare products. Our expert consulting services focus on international business development, driving innovation, ensuring regulatory compliance, and maximizing your market potential. 
                     </p>
                     <p class="mt-3">
-                        We are in the process of replicating in Australia the same era which Back in India, where we are boldly pioneers in agrochemical surfactants, infusing scientific heritage with innovative aspirations, passionately driving agricultural advancements and industry excellence towards a dynamic, thriving future.
+                        Let us help you navigate complexities and achieve success in the ever-evolving landscape of these industries.
                     </p>
                     <div class="row two-grids mt-5 pt-lg-4">
                         <div class="col-sm-6 grids_info d-flex">
@@ -72,7 +71,8 @@
                             <div class="detail ms-3">
                                 <h4>
                                     Worldwide Service</h4>
-                                <p>Our global network of experts provides comprehensive support and consulting services to clients across the globe, ensuring your success.
+                                <p>
+                                Our global network  provides comprehensive support and consulting services to clients across the globe, ensuring your success.
                                 </p>
                             </div>
                         </div>
@@ -94,19 +94,19 @@
             <div class="w3l-stats-inner-inf">
                 <div class="row stats-con">
                     <div class="col-lg-3 col-6 stats_info counter_grid">
-                        <p class="counter">2500+ </p>
-                        <h3>Successful Projects Completed</h3>
+                        <p class="counter">50+ </p>
+                        <h3>Portfolio of Global Agrochemical and Pharmaceutical companies</h3>
                     </div>
                     <div class="col-lg-3 col-6 stats_info counter_grid">
-                        <p class="counter">200+</p>
+                        <p class="counter">80+</p>
                         <h3>Employees</h3>
                     </div>
                     <div class="col-lg-3 col-6 stats_info counter_grid mt-lg-0 mt-4">
-                        <p class="counter">1280+</p>
+                        <p class="counter">100+</p>
                         <h3>Regulatory Approvals</h3>
                     </div>
                     <div class="col-lg-3 col-6 stats_info counter_grid mt-lg-0 mt-4">
-                        <p class="counter">3020</p>
+                        <p class="counter">3000+</p>
                         <h3>Clients Served</h3>
                     </div>
 

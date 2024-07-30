@@ -8,32 +8,32 @@
         <div class="row gal-page-grids text-center">
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
                 <div class="w3layouts_team_grid">
-                    <img src="assets/images/logo0.png" alt=" " class="img-fluid radius-image" />
+                    <img src="assets/images/logo00.png" alt=" " class="img-fluid radius-image" />
                 </div>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
                 <div class="w3layouts_team_grid">
-                    <img src="assets/images/logo2.png" alt=" " class="img-fluid radius-image" />
+                    <img src="assets/images/logo7.png" alt=" " class="img-fluid radius-image" />
                 </div>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
                 <div class="w3layouts_team_grid">
-                    <img src="assets/images/logo3.png" alt=" " class="img-fluid radius-image" />
+                    <img src="assets/images/logo9.png" alt=" " class="img-fluid radius-image" />
                 </div>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
                 <div class="w3layouts_team_grid">
-                    <img src="assets/images/logo4.png" alt=" " class="img-fluid radius-image" />
+                    <img src="assets/images/logo44.png" alt=" " class="img-fluid radius-image" />
                 </div>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
                 <div class="w3layouts_team_grid">
-                    <img src="assets/images/logo5.png" alt=" " class="img-fluid radius-image" />
+                    <img src="assets/images/logo1.png" alt=" " class="img-fluid radius-image" />
                 </div>
             </div>
             <div class="col-lg-4 col-6 w3layouts_gallery_grid">
                 <div class="w3layouts_team_grid">
-                    <img src="assets/images/logo6.png" alt=" " class="img-fluid radius-image" />
+                    <img src="assets/images/logo10.png" alt=" " class="img-fluid radius-image" />
                 </div>
             </div>
 
