@@ -3,7 +3,7 @@
         <div class="container py-md-5 py-3 pb-0">
             <div class="row footer-p right-side">
                 <div class="col-lg-4 col-md-6 pe-lg-5">
-                    <h2 class="footerw3l-logo"><?php include('company_name.php'); ?></h2>   
+                    <h2 class="footerw3l-logo"><?php include('company_name_footer.php'); ?></h2>   
                     <p class="mt-3">Your global partner for pharmaceutical and agrochemical solutions. We offer expert guidance, innovative products, and tailored strategies to drive your success in the life sciences industry.</p>
 
                     <div class="columns-2 mt-lg-5 mt-4">
@@ -52,7 +52,7 @@
                 </div>
             </div>
             <div class="below-section text-center pt-lg-4 mt-5">
-                <p class="copy-text">&copy; 2024 Vinayak Multinationals. All rights reserved.</p>
+                <p class="copy-text">&copy; 2024 Vinayak Multinationals (Aus) Pty Ltd. All rights reserved.</p>
             </div>
         </div>
     </div>
