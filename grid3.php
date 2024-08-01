@@ -9,7 +9,7 @@
                     </div>
                 </div>
                 <h3 class="gdnhy-1 mt-lg-4 mt-3">Puneet Kharbanda
-                <p class="indentity">Managing Director, Global</p>
+                <p class="indentity">Director</p>
                 </h3>
                 <p class="mt-md-2">Our global reach is a testament to our commitment to innovation and collaboration. 
                     We leverage our diverse perspectives to anticipate challenges, seize opportunities, and deliver transformative solutions for our clients and partners.
@@ -23,7 +23,7 @@
                     </div>
                 </div>
                 <h3 class="gdnhy-1 mt-lg-4 mt-3">Shalini Kharbanda
-                <p class="indentity">Chief Executive Officer</p>
+                <p class="indentity">Director</p>
                 </h4>
                 <p class="mt-md-2">At Vinayak, we lead with integrity, passion, and a relentless pursuit of excellence. 
                     Our success is defined by the success of our clients, and we're dedicated to building lasting partnerships based on trust, transparency, and a shared vision. 

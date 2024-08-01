@@ -64,8 +64,8 @@
                             <li><span class="fas fa-check"></span> Crop Protection Solutions</li>
                             <li><span class="fas fa-check"></span> Tailored Agronomic Advice</li>
                             <li><span class="fas fa-check"></span> Sustainable Farming Practices</li>
-                            <li><span class="fas fa-check"></span> Research & Development Partnerships</li>
-                            <li><span class="fas fa-check"></span> Regulatory Compliance Support</li>
+                            <li><span class="fas fa-check"></span> New product Development Partnerships</li>
+                            <li><span class="fas fa-check"></span> Regulatory Compliance</li>
                             <li><span class="fas fa-check"></span> 24/7 Technical Assistance</li>
                         </ul>
                     </div>
@@ -85,8 +85,7 @@
                 <div class="col-lg-6 order-lg-2 text-center"> <div class="w3l-abouthny-info">
                         <h3 class="title-w3l">Trusted Partnership in Agrochemical Solutions</h3>
                         <p class="mt-4">
-                            Vinayak enterprises is proud to be a fully APVMA-registered provider of agrochemical solutions, adhering to the highest standards of safety and efficacy. Our commitment to excellence is reflected in our comprehensive certifications and meticulous adherence to Material Safety Data Sheets (MSDS) protocols.
-                        </p>
+                            Vinayak Multinationals is proud to be distributers for fully APVMA registered products of agrochemical solutions, adhering to the highest standards of safety and efficacy. Our commitment to excellence is reflected in our comprehensive certifications and meticulous adherence to Material Safety Data Sheets (MSDS) protocols.                        </p>
                         <p class="mt-4">
                             We understand the importance of responsible agrochemical use for both the environment and the well-being of Australian farmers. That's why we invest in rigorous research and development, ensuring our products not only deliver exceptional results but also minimise environmental impact.
                         </p>
@@ -110,7 +109,7 @@
             </div>
             <div class="main-cont-wthree-2">
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
+                    <div class="col-lg-6 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
                                 <i class="fas fa-leaf"></i>
@@ -121,7 +120,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
+                    <div class="col-lg-6 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
                                 <i class="fas fa-tree"></i>
@@ -132,47 +131,25 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
-                        <div class="grids-1 box-wrap">
-                            <div class="icon">
-                                <i class="fas fa-seedling"></i>
-                            </div>
-                            <div class="icon-info text-left">
-                                <h4 class="title-head mt-0">Seed Treatment</h4>
-                                <p class="text-para">Seed treatment services to protect seeds from pests and diseases, ensuring healthy germination and vigorous growth. </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
+                    <div class="col-lg-6 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
                                 <i class="fas fa-tint"></i>
                             </div>
                             <div class="icon-info text-left">
                                 <h4 class="title-head mt-0">Sustainable Agriculture Solutions</h4>
-                                <p class="text-para">Consulting on sustainable farming practices to minimize environmental impact while maximizing productivity for farmers.</p>
+                                <p class="text-para">Consulting on sustainable farming practices to minimize environmental impact while maximizing productivity for farmers.<br></p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
+                    <div class="col-lg-6 col-md-6 mt-lg-5 mt-4">
                         <div class="grids-1 box-wrap">
                             <div class="icon">
                                 <i class="fas fa-handshake"></i>
                             </div>
                             <div class="icon-info text-left">
                                 <h4 class="title-head mt-0">Regulatory Compliance</h4>
-                                <p class="text-para">Guidance on regulatory compliance for agrochemical use, ensuring adherence to safety standards and environmental regulations. </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">
-                        <div class="grids-1 box-wrap">
-                            <div class="icon">
-                                <i class="fas fa-search"></i>
-                            </div>
-                            <div class="icon-info text-left">
-                                <h4 class="title-head mt-0">Personalized Agronomic Advice</h4>
-                                <p class="text-para">Tailored advice from experienced agronomists on crop management practices, including planting, fertilization, and harvest timing.</p>
+                                <p class="text-para">Regulatory compliance for agrochemical use, ensuring adherence to safety standards and environmental regulations. </p>
                             </div>
                         </div>
                     </div>

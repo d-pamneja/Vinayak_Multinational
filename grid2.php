@@ -21,7 +21,7 @@
                             <i class="fas fa-user-tie"></i>
                         </div>
                         <h4><a href="consulting.php" class="title-head mb-3">Consulting</a></h4>
-                        <p class="text-para">Expert guidance for navigating the complex life sciences landscape</p>
+                        <p class="text-para">Expert guidance for navigating the complex landscape</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mt-lg-5 mt-4">

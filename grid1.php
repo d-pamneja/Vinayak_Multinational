@@ -6,8 +6,10 @@
             </div>
             <div class="w3ab-left-top col-lg-6 mt-lg-0 mt-4 pt-lg-0 pt-2">
                 <h6 class="title-subw3hny mb-1">Nurturing a Thriving Future.</h6>
-                <h3 class="title-w3l mb-2">Your Partner in Pharmaceuticals and Agrochemicals.</h3>
-                <p class="my-3">Empowering your success in the life sciences industry. With decades of experience and a global network, we provide expert consultation and a comprehensive portfolio of pharmaceutical and agrochemical solutions. We partner with you to navigate complexities, optimize operations, and drive sustainable growth.</p>
+                <h3 class="title-w3l mb-2">Your Premier Partner in Cutting-Edge Agrochemicals, Global Business Development Consulting, and Innovative Pharmaceuticals</h3>
+                <p class="my-3">
+                    Empowering your success in the agrochemical and life sciences industry, we leverage decades of experience and a robust global network. We offer expert consultation and a comprehensive portfolio for new developments in Australia and India. Partner with us to navigate complexities, optimize operations, and drive sustainable growth, transforming challenges into opportunities for your business.
+                </p>
 
                 <a href="about.php" class="btn btn-style btn-primary mt-4">Read More</a>
             </div>

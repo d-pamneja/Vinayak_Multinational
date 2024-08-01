@@ -55,12 +55,12 @@
                         <h3 class="title-w3l">Your Trusted Partner for Pharmaceutical Distribution and Healthcare Solutions</h3>
                         <p class="mt-4">Pharma Division, Back in India by our sister concern is driven by dynamic professionals and mammoth cutting-edge facilities, ambitiously caters to a vast network, aspiring to revolutionize medicinal distribution and healthcare accessibility across numerous markets</p>
                         <ul class="w3l-right-book w3l-right-book-grid mt-md-5 mt-4">
-                            <li><span class="fas fa-check"></span> Extensive Range of Generic and Branded Medications</li>
+                            <li><span class="fas fa-check"></span> Extensive Range of Branded Medications</li>
                             <li><span class="fas fa-check"></span> Reliable Cold Chain Storage and Distribution</li>
                             <li><span class="fas fa-check"></span> Regulatory Compliance and Quality Assurance</li>
                             <li><span class="fas fa-check"></span> Customized Solutions for Healthcare Providers</li>
                             <li><span class="fas fa-check"></span> 24/7 Customer Support and Order Tracking</li>
-                            <li><span class="fas fa-check"></span> Dedicated Medical Representative Support</li>
+                            <li><span class="fas fa-check"></span> Dedicated Medical Experienced Support</li>
                         </ul>
                         <!-- <a href="#services" class="btn btn-style btn-primary mt-4">Read More</a> -->
                     </div>
@@ -70,7 +70,7 @@
     </section>
     <!--//w3l-index3-->
     <!--/features-section-->
-    <section class="w3l-features w3l-services-page py-5" id="work">
+    <!-- <section class="w3l-features w3l-services-page py-5" id="work">
         <div class="container py-lg-5 py-md-4 py-2">
             <div class="title-content text-center mb-lg-3 mb-4">
                 <h6 class="title-subw3hny mb-1">Our Services</h6>
@@ -147,7 +147,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--//features-section -->
 
     <!--/w3l-grids-->
@@ -165,9 +165,11 @@
                         <div class="witemshny-inf">
                         </div>
                     </div>
-                    <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img">Pioneering the Future of Medicine</a>
+                    <h4 class="gdnhy-1 mt-lg-4 mt-3"><a href="#img">Pioneering the Future of Medicine Distribution</a>
                     </h4>
-                    <p class="mt-md-2">Our commitment to research and development drives innovation, leading to groundbreaking pharmaceutical discoveries.</p>
+                    <p class="mt-md-2">
+                        Our commitment to research and development drives innovation, leading to groundbreaking advancements in hygienic pharmaceutical storage, logistics, and distribution.
+                    </p>
                 </div>
                 <div class="col-md-4 col-12 product-incfhny mt-4">
                     <div class="weitemshny-grid oposition-relative">
