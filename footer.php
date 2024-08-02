@@ -8,9 +8,9 @@
 
                     <div class="columns-2 mt-lg-5 mt-4">
                         <ul class="social">
-                            <li><a href="#linkedin"><i class="fab fa-linkedin-in"></i></a>
+                            <li><a href="https://www.linkedin.com/company/vinayak-multinationals-aus-pty-ltd/"><i class="fab fa-linkedin-in"></i></a>
                             </li>
-                            <li><a href="#google"><i class="fab fa-google-plus-g"></i></a>
+                            <li><a href="mailto:vinayak1995.australia@gmail.com"><i class="fab fa-google-plus-g"></i></a>
                             </li>
 
                         </ul>
