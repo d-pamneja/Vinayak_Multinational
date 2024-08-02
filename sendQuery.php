@@ -14,9 +14,9 @@
             } else {
                 $mail_sent = mail($to, $subject, $message, $headers);
                 if ($mail_sent) {
-                    echo "<div class='success'>Your message has been sent successfully.</div>";
+                    echo "<div class='alert alert-success alert-dismissible fade show' role='alert'>Message sent Successfully!</div>";
                 } else {
-                    echo "<div class='error'>Failed to send your message. Please try again later.</div>";
+                    echo "<div class='alert alert-danger' role='alert'>Failed to send your message. Please try again later.</div>";
                 }
             }
         }
