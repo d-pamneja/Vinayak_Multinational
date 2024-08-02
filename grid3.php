@@ -3,7 +3,7 @@
         <div class="witemshny-grids row">
             <div class="col-md-6 col-6 product-incfhny mt-6">
                 <div class="weitemshny-grid oposition-relative">
-                    <a href="#img" class="d-block zoom"><img src="assets/images/puneet_client.jpeg" alt=""
+                    <a href="#img" class="d-block zoom"><img src="assets/images/puneet_client1.jpeg" alt=""
                             class="img-fluid news-image"></a>
                     <div class="witemshny-inf">
                     </div>
@@ -17,7 +17,7 @@
             </div>
             <div class="col-md-6 col-6 product-incfhny mt-6">
                 <div class="weitemshny-grid oposition-relative">
-                    <a href="#img" class="d-block zoom"><img src="assets/images/shalini_client.jpeg" alt=""
+                    <a href="#img" class="d-block zoom"><img src="assets/images/shalini_client1.jpeg" alt=""
                             class="img-fluid news-image"></a>
                     <div class="witemshny-inf">
                     </div>

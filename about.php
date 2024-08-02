@@ -135,7 +135,7 @@
                 <div class="col-lg-4 col-12 team-wrap mt-lg-5 mt-4">
                     <div class="team-member text-center">
                         <div class="team-img">
-                            <img src="assets/images/puneet_client.jpeg" alt="" class="radius-image">
+                            <img src="assets/images/puneet_client1.jpeg" alt="" class="radius-image">
                         </div>
                         <a href="#url" class="team-title">Puneet Kharbanda</a>
                         <p>Director</p>
@@ -145,7 +145,7 @@
                 <div class="col-lg-4 col-12 team-wrap mt-lg-5 mt-4">
                     <div class="team-member text-center">
                         <div class="team-img">
-                            <img src="assets/images/shalini_client.jpeg" alt="" class="radius-image">
+                            <img src="assets/images/shalini_client1.jpeg" alt="" class="radius-image">
                         </div>
                         <a href="#url" class="team-title">Shalini Kharbanda</a>
                         <p>Director</p>
