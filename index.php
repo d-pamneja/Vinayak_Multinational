@@ -31,6 +31,9 @@
     <!--/w3-grids-->
     <?php include('grid3.php'); ?>
     <!--//w3-grids-->
+    <!--/w3-grids-->
+    <?php include('grid4.php'); ?>
+    <!--//w3-grids-->
     <!--/testimonials-->
     <?php include('testimonials.php'); ?>
     <!--//testimonials-->
@@ -72,6 +75,11 @@
     <!-- Template JavaScript -->
     <script src="assets/js/jquery-3.3.1.min.js"></script>
     <script src="assets/js/theme-change.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script> <!-- Necessary-JS-File-For-Bootstrap -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 
 
     <!-- MENU-JS -->
@@ -112,6 +120,33 @@
     });
     </script>
     <!-- Add active dynamically-->
+
+    <!--Carousel-->
+    <script>
+        $(document).ready(function(){
+            $('.owl-one').owlCarousel({
+                loop: true,
+                margin: 10,
+                nav: true,
+                autoplay: true,
+                autoplayTimeout: 3000,
+                autoplayHoverPause: true,
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    600: {
+                        items: 1
+                    },
+                    1000: {
+                        items: 1
+                    }
+                }
+            });
+        });
+    </script>
+    <!--//Carousel-->
+
 
 
     <script src="assets/js/active.js"></script>
