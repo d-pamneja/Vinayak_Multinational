@@ -93,7 +93,7 @@
                             When you partner with us, you're choosing a company that values transparency, professionalism, and a deep commitment to the sustainability of Australian agriculture.
                         </p>
                         <p class="mt-4">
-                            We are proud to be in association with Zhouchen Industries (Shanghai) Co., Ltd. and Krepl: Krishi Rasayan (India) and are legally aurthorised to distribute and sell their products.
+                            We are proud to be in association with Zhouchen Industries (Shanghai) Co. Ltd. and Krishi Rasayan India (Krepl) Ltd. and have long lasting relationships in Indian and Australian markets to grow our presence and become future leaders of the industry.
                         </p>
                     </div>
                 </div>
