@@ -15,11 +15,8 @@
   <h3 align="center">Vinayak Multinationals</h3>
 
   <p align="center">
-    <br />
-    <a href="https://github.com/d-pamneja/Vinayak_Multinational"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/d-pamneja/Vinayak_Multinational">View Demo</a>
+    <br>
+    <a href="https://drive.google.com/file/d/1xYw5Zkr2SXAJZQWvo3kztSyZ1_OIyTmZ/view?usp=share_link">View Demo</a>
     ·
     <a href="https://github.com/d-pamneja/Vinayak_Multinational/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -179,7 +176,7 @@ This website has been developed by RDBiz. For any queries or concerns, please co
 [license-url]: https://github.com/d-pamneja/Vinayak_Multinational/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: assets/images/product_screenshot.png
+[product-screenshot]: assets/images/product_screenshot1.png
 [HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
