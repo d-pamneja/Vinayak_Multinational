@@ -4,7 +4,7 @@
             $email = htmlspecialchars($_POST['email']);
             $subject = htmlspecialchars($_POST['subject']);
             $message = htmlspecialchars($_POST['message']);
-            $to = "dpamneja@gmail.com"; // Replace with your email address
+            $to = "vinayak1995.australia@gmail.com";
             $headers = "From: $email";
 
             if (empty($name) || empty($email) || empty($subject) || empty($message)) {
